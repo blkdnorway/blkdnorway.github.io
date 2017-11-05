@@ -245,11 +245,11 @@
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
               "linkInNewWindow": false,
-              "name": "recycle",
-              "family": "et-line",
+              "name": "recycle-2",
+              "family": "icon54",
               "active": true,
               "size": 0,
-              "color": "#b8312f"
+              "color": "#00a885"
             }
           },
           "title1": "<a href=\"oslo.html\">Karma</a>",
@@ -261,8 +261,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "question",
-              "family": "MobiriseIcons",
+              "name": "arrow-squiggly",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#00a885"
@@ -273,7 +273,7 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "globe",
+              "name": "question",
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
@@ -2678,7 +2678,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33732.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33733.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
