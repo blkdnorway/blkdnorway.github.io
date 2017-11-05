@@ -290,8 +290,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "wechat",
-              "family": "socicon",
+              "name": "people-oncloud",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#00a885"
@@ -302,8 +302,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "tree",
-              "family": "FontAwesome",
+              "name": "flower",
+              "family": "icon54",
               "active": true,
               "size": 0,
               "color": "#00a885"
@@ -2679,7 +2679,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33735.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33736.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
