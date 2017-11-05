@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "oslo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -112,7 +112,7 @@
             "showButtons": true
           },
           "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
-          "text": "<b style=\"font-style: normal;\">Vi inviterer deg til en annerledes forelesning - den handler om deg.<br>Er det mulig å leve et liv uten ensomhet, tristhet, angst eller stress?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden. Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.<br>Dette kan utgjøre en virkelig forskjell i livet ditt.</b><br><span style=\"font-style: normal;\"><b><br>BOOK DIN GRATISBILLETT:</b></span>",
+          "text": "<b style=\"font-style: normal;\">Vi inviterer deg til en annerledes forelesning - den handler om deg.<br>Er det mulig å leve et liv uten ensomhet, tristhet, angst eller stress?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden. Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.<br>Dette kan utgjøre en virkelig forskjell i livet ditt.</b><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -467,7 +467,7 @@
           },
           "title1": "Lost in the World",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Hvorfor er ensomhet deprimerende? Fordi vi ikke liker å være ensomme,&nbsp;vi liker ikke den følelsen. I denne verden, prøver vi veldig hardt å alltid undertrykke eller gjemme det. Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever denne starke følelse av ensomhet? Finns det noen løsning på denne gnagagende følese av tomhet og einsomhet?<br>Hør fra yogamester Balakhilya das hvor sann lykke kan finnes - og lær deg hvordan du kan skape et liv av harmoni, glede, og mening!<br>",
+          "caption1": "Hvorfor er ensomhet et problem? Fordi vi ikke liker å være ensomme, vi liker ikke den følelsen. I denne verden prøver vi veldig hardt å alltid undertrykke eller gjemme det. Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?<br>Hør fra yogamester Balakhilya das hvor sann lykke kan finnes - og lær deg hvordan du kan skape et liv av harmoni, glede, og mening!<br>",
           "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
@@ -483,7 +483,7 @@
           },
           "title2": "Karma<br>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "De fleste har minst en forbigående forståelse av begrepet karma. Tanken om at det du gjør med andre, kommer tilbake til at du kanskje har oppfordret deg til å endre din oppførsel med ideen om å tiltrekke seg mer god karma enn dårlig karma. Men visste du at selv \"god karma\" har en alvorlig ulempe? Hvis selv god karma ikke er ønskelig, hvordan kan vi leve i denne verden uten å skape karma?&nbsp;",
+          "caption2": "De fleste har en eller annen forståelse av begrepet karma. Tanken om at det du gjør med andre kommer tilbake til deg er en vanlig oppfatning. Kanskje du endrer din oppførsel med ideen om å tiltrekke deg mer god karma enn dårlig karma. Men visste du at selv \"god karma\" har en alvorlig ulempe? Hvis selv god karma ikke er ønskelig, hvordan kan vi leve i denne verden uten å skape karma?",
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
@@ -499,7 +499,7 @@
           },
           "title3": "Pop-up Yoga Cafe",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "En spennende mulighet til å møte med andre yoga-utøvere og andre til seminar og spørsmål med internasjonal taler Balakhilya das om \"Living a Yoga Lifestyle\". Med vegetarmeny. Gratis inngang.",
+          "caption3": "En spennende mulighet til å møte andre yoga-entusiaster til seminar og spørsmål med internasjonal foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter for å kjøpe smakfull vegetarmat på eventen. Gratis inngang.",
           "button3": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - TRONDHEIM</a>",
           "media4": {
             "image": {
@@ -2109,7 +2109,7 @@
           },
           "title": "<br>LOST IN THE WORLD<br>KARMA<br><span style=\"line-height: 1.1; font-size: 32px;\">Gratis seminarer av den</span><br><div><span style=\"color: rgb(243, 198, 73); line-height: 1.1;\">verdenskjente eksperten<br>i yoga-vitenskap,</span></div><div><span style=\"color: rgb(243, 198, 73); line-height: 1.1;\">Balakhilya das</span><br></div>",
           "text": "Lær hvordan du kan kontrollere sinnet ditt, og fri deg fra stress og bekymringer.<br>Utvikle åndelig innsikt, indre styrke og toleranse.<br><br>\"So even in a huge crowd of people, maybe you’re in a circle of so-called friends at a party, you’re still lonely. Because no one is there with you in your heart, you don’t feel that loving connection with someone. And even if you have someone you say you love, you still feel lonely, because the heart is lonely.\"<br>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#extHeader13-21\">PÅMELDING</a> <a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#features3-2h\">MER INFO</a> ",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#extHeader13-21\">RESERVER GRATISBILLETT</a> <a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#features3-2h\">FÅ MER INFO</a> ",
           "media": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/imageedit_23-920x673.png",
@@ -2307,7 +2307,7 @@
             "countdown": "2017/12/05 18:00",
             "showArrow": true
           },
-          "title2": "GRATIS PÅMELDING",
+          "title2": "RESERVER GRATISBILLETT",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
@@ -2799,7 +2799,7 @@
           },
           "title": "<br>LOST IN THE WORLD<br>POP-UP YOGA CAFE<br><span style=\"line-height: 1.1; font-size: 32px;\">Gratis events med den</span><br><div><span style=\"color: rgb(243, 198, 73); line-height: 1.1;\">verdenskjente eksperten<br>i yoga-vitenskap,</span></div><div><span style=\"color: rgb(243, 198, 73); line-height: 1.1;\">Balakhilya das</span><br></div>",
           "text": "\"So even in a huge crowd of people, maybe you’re in a circle of so-called friends at a party, you’re still lonely. Because no one is there with you in your heart, you don’t feel that loving connection with someone. And even if you have someone you say you love, you still feel lonely, because the heart is lonely.\"<br>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#extHeader13-2f\">MELD MEG PÅ</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">MER INFO</a> ",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#extHeader13-2f\">RESERVER GRATISBILLETT</a> <a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">FÅ MER INFO</a> ",
           "media": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/imageedit_23-920x673.png",
@@ -2884,7 +2884,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33742.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33743.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
