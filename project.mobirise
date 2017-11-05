@@ -220,7 +220,7 @@
           "_anchor": "extFeatures13-2t",
           "_params": {
             "iconsColor": "#666666",
-            "blocks": "5",
+            "blocks": "4",
             "paddingTop": "1",
             "paddingBottom": 2,
             "parallax": false,
@@ -2679,7 +2679,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33736.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33737.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
