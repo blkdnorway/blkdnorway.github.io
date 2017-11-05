@@ -2678,7 +2678,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33728.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33729.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
