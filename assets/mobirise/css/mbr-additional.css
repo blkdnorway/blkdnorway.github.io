@@ -1216,24 +1216,27 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
 }
-#extFeatures13-25 .etl-icon {
+#extFeatures13-2x .etl-icon {
   color: #666666;
 }
-#extFeatures13-25 .mbr-section-subtitle {
+#extFeatures13-2x .mbr-section-subtitle {
   font-family: 'Lato', sans-serif;
   font-size: 25px;
 }
-#extFeatures13-25 .mbr-section-title {
+#extFeatures13-2x .mbr-section-title {
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
-#extFeatures13-25 .date P {
+#extFeatures13-2x .date P {
   font-family: 'Lato', sans-serif;
   font-size: 22px;
 }
-#extFeatures13-25 P {
+#extFeatures13-2x P {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
+}
+#extFeatures13-2x .date SPAN {
+  text-align: center;
 }
 #form1-23 .form-control-label {
   color: #232323;
@@ -1367,26 +1370,26 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
 }
-#extFeatures13-2i .etl-icon {
+#extFeatures13-2w .etl-icon {
   color: #666666;
 }
-#extFeatures13-2i .mbr-section-subtitle {
+#extFeatures13-2w .mbr-section-subtitle {
   font-family: 'Lato', sans-serif;
   font-size: 25px;
 }
-#extFeatures13-2i .mbr-section-title {
+#extFeatures13-2w .mbr-section-title {
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
-#extFeatures13-2i .date P {
+#extFeatures13-2w .date P {
   font-family: 'Lato', sans-serif;
   font-size: 22px;
 }
-#extFeatures13-2i P {
+#extFeatures13-2w P {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
 }
-#extFeatures13-2i .date SPAN {
+#extFeatures13-2w .date SPAN {
   text-align: center;
 }
 #form1-2c .form-control-label {
