@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index.html",
+    "currentPage": "index-en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1363,11 +1363,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             "SPAN": {
-              "font-size": "21px",
+              "font-size": "20px",
               "color": "#414141"
             },
             "B": {
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_anchor": "extHeader6-2y",
@@ -1389,8 +1389,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>Meet a world-known</div><div>expert i the Wisdom of Yoga</div>",
-          "text": "<b>We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, stress - is it even possible?<br>Discover how to live a life that actually feels good on the inside, not one that only looks good on the outside. Meet world-renowned yogi, lecturer, and meditation master Balakhilya das - travelling around the world to give lectures on the ancient yet highly relevant wisdom of yoga. In a warm yet authorative manner, Balakhilya das helps people to resolve conflicts and to find true and lasting happiness.<br>This can change your life!<br><span style=\"font-style: normal;\"><br>SIGN UP FOR FREE SEMINAR:</span></b>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>Meet a world-known</div><div>expert in the Wisdom of Yoga</div>",
+          "text": "<b><span style=\"font-style: normal;\">We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, stress - is it even possible?<br>Discover how to live a life that actually feels good on the inside, not one that only looks good on the outside. Meet world-renowned yogi, lecturer, and meditation master Balakhilya das - travelling around the world to give lectures on the ancient yet highly relevant wisdom of yoga. In a warm yet authorative manner, Balakhilya das helps people to resolve conflicts and to find true and lasting happiness.<br>This may change your life!</span><br><span style=\"font-style: normal;\"><br>BOOK YOUR FREE SPOT:</span></b>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2m\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2n\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -2884,7 +2884,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33743.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33744.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
