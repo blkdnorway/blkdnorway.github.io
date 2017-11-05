@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 100,
+    "uniqCompNum": 101,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -71,7 +71,27 @@
             "Extension"
           ],
           "_name": "extHeader6",
-          "_anchor": "extHeader6-2q",
+          "_styles": {
+            "DIV": {
+              "color": "#475577",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "21px",
+              "color": "#414141"
+            }
+          },
+          "_anchor": "extHeader6-2s",
           "_params": {
             "imageSize": 90,
             "parallax": true,
@@ -95,7 +115,7 @@
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
           "media": {
             "image": {
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader6.png"
+              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6.png"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -107,30 +127,10 @@
             },
             "video": {
               "active": true,
-              "src": "vimeo.com/241307884",
+              "src": "https://vimeo.com/241307884",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
-            }
-          },
-          "_styles": {
-            "DIV": {
-              "color": "#475577",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
-            },
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            "SPAN": {
-              "font-size": "21px",
-              "color": "#414141"
             }
           }
         },
@@ -2678,7 +2678,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33726.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33727.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
