@@ -238,7 +238,7 @@
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "BALAKHILYA DAS <br>I NORGE<br>",
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS <br>I NORGE</span><br>",
           "mainSubtitle": "Se hvor og når du kan møte Balakhilya das",
           "date1": "<b><a href=\"oslo.html\" class=\"text-success\">5. desember 2017</a><br></b><span style=\"font-style: normal;\">18:00&nbsp;Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
           "media1": {
@@ -289,8 +289,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "chat",
-              "family": "et-line",
+              "name": "wechat",
+              "family": "socicon",
               "active": true,
               "size": 0,
               "color": "#00a885"
@@ -401,7 +401,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "REISER TIL KANADA"
+          "bottomTitle": "<span style=\"font-weight: normal;\">REISER TIL KANADA</span>"
         },
         {
           "_tags": [
@@ -2678,7 +2678,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33733.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33734.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
