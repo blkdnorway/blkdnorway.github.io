@@ -1601,7 +1601,7 @@
           "text3": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, and how we can find true happiness in the world. <br></span>Free entrance.<br>",
           "date4": "<div style=\"text-align: right;\"><span style=\"font-style: normal; line-height: 1.5;\"><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">10 DESEMBER 2017</a><br>14:00 Kongens gate 55</span></div><span style=\"font-style: normal;\">Trondheim<br></span>",
           "title4": "<a href=\"trondheim.html\">POP-UP YOGA CAFE</a>E",
-          "text4": "<span style=\"font-style: normal;\">An exciting opportunity to meet with yoga practitioners and others for seminars and questions with international spekar Balakhilya das about \"Living a Yoga Lifestyle\". With vegetarian menu.</span><br>Free entrance.<br>",
+          "text4": "An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.<br>Free entrance.",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2884,7 +2884,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33744.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33745.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
