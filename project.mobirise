@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 99,
+    "uniqCompNum": 100,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -421,7 +421,7 @@
               "font-size": "14px"
             }
           },
-          "_anchor": "features3-2l",
+          "_anchor": "features3-2r",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": "1",
@@ -446,7 +446,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337-1.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -462,7 +462,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x390.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x390-1.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1982,7 +1982,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33724.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2662,7 +2662,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x33724.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2678,7 +2678,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33726.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
