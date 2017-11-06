@@ -1471,7 +1471,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "<p><b>Oslo Meditasjonsskole<br>Tel. 980 41 818</b><br><a href=\"mailto:oslomeditasjon@gmail.com\"><span style=\"font-style: normal;\"><b>oslomeditasjon@gmail</b></span><b>.</b><span style=\"font-weight: bold; font-style: normal;\"><b>com</b></span></a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" style=\"font-style: normal;\" class=\"text-success\">www.oslomeditasjon.no</a><span style=\"font-style: normal;\"></span></p>",
+          "text1": "<p>Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" style=\"font-style: normal;\" class=\"text-success\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" class=\"text-success\">www.oslomeditasjon.no</a></p><p></p><p><span style=\"font-style: normal;\"></span></p>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -1485,7 +1485,7 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "<b>Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\"><b><span style=\"font-style: normal;\">info@tmy</span>.<span style=\"font-style: normal;\">no</span></b></a><br></b><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-success\"><span style=\"font-style: normal;\">www</span>.<span style=\"font-style: normal;\">tmy</span>.<span style=\"font-style: normal;\">no</span>&nbsp;</a><br>",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><b><b><a href=\"mailto:info@tmy.no\" class=\"text-success\"><span style=\"font-style: normal;\">info@tmy</span>.<span style=\"font-style: normal;\">no</span></a></b><br></b><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-success\"><span style=\"font-style: normal;\">www</span>.<span style=\"font-style: normal;\">tmy</span>.<span style=\"font-style: normal;\">no</span>&nbsp;</a><br>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
@@ -2436,7 +2436,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2459,7 +2459,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15006.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3480,7 +3480,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3378.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
