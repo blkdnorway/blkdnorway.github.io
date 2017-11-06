@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "kontakt.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-82905239-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-82905239-2');\r\n</script>",
     "cookiesAlert": ""
   },
   "pages": {
@@ -111,8 +111,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
-          "text": "<b style=\"font-style: normal;\">Vi inviterer deg til en annerledes forelesning - den handler om deg.<br>Er det mulig å leve et liv uten ensomhet, tristhet, angst eller stress?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden. Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.<br>Dette kan utgjøre en virkelig forskjell i livet ditt.</b><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norges-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
+          "text": "<b style=\"font-style: normal;\">Vi inviterer deg til en annerledes forelesning - den handler om deg.<br>Er det mulig å leve et liv uten ensomhet, tristhet, angst eller stress?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden. Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.<br>Dette kan utgjøre en virkelig forskjell i livet ditt!</b><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -1397,6 +1397,21 @@
             "Extension"
           ],
           "_name": "extForm1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#232323"
+            },
+            "H2": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "60px",
+              "color": "#28324e"
+            },
+            ".intro-box h4": {
+              "color": "#28324e"
+            }
+          },
           "_anchor": "extForm1-39",
           "_params": {
             "paddingTop": 1,
@@ -1421,7 +1436,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -1496,22 +1511,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND TIL OSS</a>",
-          "_styles": {
-            "P": {
-              "font-size": "16px",
-              "color": "#232323"
-            },
-            "H2": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "60px",
-              "color": "#28324e"
-            },
-            ".intro-box h4": {
-              "color": "#28324e"
-            }
-          }
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND TIL OSS</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2429,7 +2429,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg16.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2446,13 +2446,13 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15000.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150015.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3472,7 +3472,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3372.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33717.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
