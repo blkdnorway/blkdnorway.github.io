@@ -6,6 +6,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -739,6 +741,7 @@ h6,
 #extFeatures13-2t P {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
+  color: #ffffff;
 }
 #extFeatures13-2t .date SPAN {
   text-align: center;
@@ -1432,6 +1435,8 @@ h6,
 
 
 
+
+
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
   text-align: center;
@@ -1463,6 +1468,22 @@ h6,
 }
 #features3-2j .btn {
   font-size: 14px;
+}
+#msg-box5-3b P {
+  text-align: right;
+  font-size: 20px;
+}
+#msg-box5-3b SPAN {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box5-3b H3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+}
+#msg-box5-3b DIV {
+  font-size: 36px;
 }
 #msg-box8-28 .mbr-section-title,
 #msg-box8-28 p {
