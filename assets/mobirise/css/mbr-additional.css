@@ -840,6 +840,7 @@ h6,
 
 
 
+
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {
   text-align: center;
@@ -900,6 +901,7 @@ h6,
 }
 #extFeatures13-34 .mbr-section-title SPAN {
   color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extFeatures13-34 SPAN {
   color: #ffffff;
@@ -976,6 +978,7 @@ h6,
 
 
 
+
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
   text-align: center;
@@ -1017,6 +1020,7 @@ h6,
 }
 #extFeatures13-35 .mbr-section-title SPAN {
   color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extFeatures13-35 SPAN {
   color: #ffffff;
@@ -1102,6 +1106,7 @@ h6,
 
 
 
+
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
@@ -1167,6 +1172,7 @@ h6,
 }
 #extFeatures13-2z .mbr-section-title SPAN {
   color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extHeader13-2m H3 {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -1335,8 +1341,9 @@ h6,
   font-size: 25px;
 }
 #extFeatures13-32 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
+  color: #ffffff;
 }
 #extFeatures13-32 .date P {
   font-family: 'Lato', sans-serif;

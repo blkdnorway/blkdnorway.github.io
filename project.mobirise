@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "oslo.html",
+    "currentPage": "kontakt.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -411,7 +411,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "<span style=\"font-weight: normal;\">REISER FRA NORGE</span>"
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK AVSLUTTES</span>"
         },
         {
           "_tags": [
@@ -1021,7 +1021,9 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "SPAN": {
               "color": "#ffffff"
@@ -1212,7 +1214,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "<span style=\"font-weight: normal;\">REISER FRA NORGE</span>"
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK AVSLUTTES</span>"
         },
         {
           "_tags": [
@@ -1437,7 +1439,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
@@ -1549,7 +1551,9 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "SPAN": {
               "color": "#ffffff"
@@ -1740,7 +1744,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "<span style=\"font-weight: normal;\">REISER FRA NORGE</span>"
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK AVSLUTTES</span>"
         },
         {
           "_styles": {
@@ -2054,7 +2058,9 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
           },
           "_anchor": "extFeatures13-2z",
@@ -2242,7 +2248,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "<span style=\"font-weight: normal;\">DEPARTING FROM NORWAY</span>"
+          "bottomTitle": "<span style=\"font-weight: normal;\">END OF VISIT&nbsp;</span>"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
@@ -2430,7 +2436,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg7.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2447,13 +2453,13 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15003.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15006.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2945,9 +2951,10 @@
               "font-size": "25px"
             },
             ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "36px"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "36px",
+              "color": "#ffffff"
             },
             ".date P": {
               "font-family": "'Lato', sans-serif",
@@ -3155,7 +3162,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "<span style=\"font-weight: normal;\">REISER FRA NORGE</span>"
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK AVSLUTTES</span>"
         },
         {
           "_tags": [
@@ -3473,7 +3480,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3378.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3952,7 +3959,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "<span style=\"font-weight: normal;\">REISER FRA NORGE</span>"
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK AVSLUTTES</span>"
         },
         {
           "_tags": [
