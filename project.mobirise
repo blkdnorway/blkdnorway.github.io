@@ -2436,7 +2436,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg13.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2459,7 +2459,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150012.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3480,7 +3480,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33714.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
