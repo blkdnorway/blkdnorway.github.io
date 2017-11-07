@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "oslo.html",
+    "currentPage": "index-en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1439,7 +1439,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -2021,7 +2021,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>To all of you out there who have found me and this website; welcome.</b></p><p><b>I'm very glad you're here. It is my hope that you will be able to take something from here that will serve as a guiding light in your life.</b></p><p>&nbsp; &nbsp;&nbsp;</p><p>I came to the yoga philosophy in an indirect way. I began to be interested in hatha yoga (physical yoga) as a way to improve my surfing, which at that time (1969) was my whole life. The benefits were immediately obvious, and I started looking into the subject deeper. By reading, I began to practice simple meditation, ate vegetarian food, and spent more and more time in deeper contemplation of the meaning of life. I had always been a traveler, but now I started on an inner journey. Along the way, my world, both the outer and the inner, became more peaceful and calm.</p><p><br></p><p>In 1971, I was so incredibly fortunate (not by coincidence I'm sure) to get in touch with my Spiritual Masters. Under their expertise and guidance, I received and began to follow the ancient science called Bhakti Yoga, which I have been following up until this day. And what a beautiful and fulfilling journey it has been!</p><p><br></p><p>So I strongly wish that you will have the same chance that I have had, undeserving as I am.</p><p><br></p><p>Best wishes,</p><p>Balakhilya das</p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>To all of you out there who have found me and this website; welcome.</b></span></p><p><span style=\"font-style: normal;\"><b>I'm very glad you're here. It is my hope that you will be able to take something from here that will serve as a guiding light in your life.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">I came to the yoga philosophy in an indirect way. I began to be interested in hatha yoga (physical yoga) as a way to improve my surfing, which at that time (1969) was my whole life. The benefits were immediately obvious, and I started looking into the subject deeper. By reading, I began to practice simple meditation, ate vegetarian food, and spent more and more time in deeper contemplation of the meaning of life. I had always been a traveler, but now I started on an inner journey. Along the way, my world, both the outer and the inner, became more peaceful and calm.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">In 1971, I was so incredibly fortunate (not by coincidence I'm sure) to get in touch with my Spiritual Masters. Under their expertise and guidance, I received and began to follow the ancient science called Bhakti Yoga, which I have been following up until this day. And what a beautiful and fulfilling journey it has been!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">So I strongly wish that you will have the same chance that I have had, undeserving as I am.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Best wishes,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2046,7 +2046,7 @@
             ".date P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "22px"
+              "font-size": "21px"
             },
             "P": {
               "font-family": "'Lato', sans-serif",
@@ -2100,8 +2100,8 @@
             }
           },
           "title1": "<a href=\"index-en.html#extHeader13-2m\">Seminar: KARMA</a>",
-          "text1": "<span style=\"font-style: normal;\">Why bad things happen to good people and how we can live in this world without creating karma.<br></span><p><span style=\"line-height: 1.5;\">Free entrance.</span>&nbsp;</p>",
-          "date2": "<div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">6 DECEMBER 2017</a><br>18:00 Litteraturhuset</span></div>Wergelandsveien 29<br>Oslo<br>",
+          "text1": "<span style=\"font-style: normal;\">Why bad things happen to good people and how we can live in this world without creating karma.</span><br><span style=\"line-height: 1.5;\">Free entrance.</span><span style=\"line-height: 1.5;\">&nbsp;</span>",
+          "date2": "<div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">6 DECEMBER 2017</a><br></span></div>18:00 Litteraturhuset <br>Wergelandsveien 29<br>Oslo<br>",
           "title2": "<a href=\"index-en.html#extHeader13-2m\">Seminar: LOST IN THE WORLD</a>",
           "text2": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, and how we can find true happiness in the world. <br></span>Free entrance.<br>",
           "media2": {
@@ -2131,7 +2131,7 @@
           "text3": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, and how we can find true happiness in the world. <br></span>Free entrance.<br>",
           "date4": "<div style=\"text-align: right;\"><span style=\"font-style: normal; line-height: 1.5;\"><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">10 DESEMBER 2017</a><br>14:00 Kongens gate 55</span></div><span style=\"font-style: normal;\">Trondheim<br></span>",
           "title4": "<a href=\"trondheim.html\">POP-UP YOGA CAFE</a>E",
-          "text4": "An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.<br>Free entrance.",
+          "text4": "<span style=\"font-style: normal;\">An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.</span><br>Free entrance.",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2453,7 +2453,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -3209,7 +3209,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -4071,7 +4071,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
