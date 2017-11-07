@@ -2,16 +2,12 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-
-
-
-
 
 
 
@@ -725,58 +721,30 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
 }
-#extFeatures13-3i .etl-icon {
+#extFeatures13-3o .etl-icon {
   color: #666666;
 }
-#extFeatures13-3i .mbr-section-title {
+#extFeatures13-3o .mbr-section-title {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
   color: #ffffff;
 }
-#extFeatures13-3i .mbr-section-title SPAN {
+#extFeatures13-3o .mbr-section-title SPAN {
   color: #ffffff;
 }
-#extFeatures13-3i SPAN {
+#extFeatures13-3o SPAN {
   color: #ffffff;
 }
-#extFeatures13-3i P {
+#extFeatures13-3o P {
   color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
 }
-#extFeatures13-3i H4 {
+#extFeatures13-3o H4 {
   color: #f3c649;
 }
-#extFeatures13-3j .etl-icon {
-  color: #666666;
-}
-#extFeatures13-3j .mbr-section-subtitle {
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-}
-#extFeatures13-3j .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 36px;
-}
-#extFeatures13-3j .date P {
-  font-family: 'Lato', sans-serif;
-  font-size: 22px;
-  color: #ffffff;
-}
-#extFeatures13-3j P {
-  font-family: 'Lato', sans-serif;
-  font-size: 18px;
-  color: #ffffff;
-}
-#extFeatures13-3j .date SPAN {
-  text-align: center;
-}
-#extFeatures13-3j .mbr-section-title SPAN {
-  color: #ffffff;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#extFeatures13-3j SPAN {
-  color: #ffffff;
+#extFeatures13-3o .date SPAN {
+  font-size: 19px;
 }
 #features3-2r H4 {
   font-size: 30px;
@@ -788,12 +756,17 @@ h6,
 #features3-2r .btn {
   font-size: 14px;
 }
-#form1-1p .form-control-label {
+#extForm1-3q P {
+  font-size: 16px;
   color: #232323;
 }
-#msg-box8-d .mbr-section-title,
-#msg-box8-d p {
-  color: #fff;
+#extForm1-3q H2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 60px;
+  color: #28324e;
+}
+#extForm1-3q .intro-box h4 {
+  color: #28324e;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
@@ -1130,9 +1103,6 @@ h6,
 
 
 
-
-
-
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
@@ -1173,36 +1143,30 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
 }
-#extFeatures13-3h .etl-icon {
+#extFeatures13-3s .etl-icon {
   color: #666666;
 }
-#extFeatures13-3h .mbr-section-subtitle {
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-}
-#extFeatures13-3h .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
+#extFeatures13-3s .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
-}
-#extFeatures13-3h .date P {
-  font-family: 'Lato', sans-serif;
-  font-size: 22px;
   color: #ffffff;
 }
-#extFeatures13-3h P {
+#extFeatures13-3s .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#extFeatures13-3s SPAN {
+  color: #ffffff;
+}
+#extFeatures13-3s P {
+  color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
-  color: #ffffff;
 }
-#extFeatures13-3h .date SPAN {
-  text-align: center;
+#extFeatures13-3s H4 {
+  color: #f3c649;
 }
-#extFeatures13-3h .mbr-section-title SPAN {
-  color: #ffffff;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#extFeatures13-3h SPAN {
-  color: #ffffff;
+#extFeatures13-3s .date SPAN {
+  font-size: 19px;
 }
 #extHeader13-2m H3 {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -1230,16 +1194,16 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
 }
-#extForm1-3a P {
+#extForm1-3r P {
   font-size: 16px;
   color: #232323;
 }
-#extForm1-3a H2 {
+#extForm1-3r H2 {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 60px;
   color: #28324e;
 }
-#extForm1-3a .intro-box h4 {
+#extForm1-3r .intro-box h4 {
   color: #28324e;
 }
 #menu-1e .hide-buttons .nav-btn {
@@ -1317,8 +1281,6 @@ h6,
 
 
 
-
-
 #header3-1s .mbr-section-title,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
@@ -1329,8 +1291,8 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
 }
 #extHeader6-1z SPAN {
-  color: #fac51c;
-  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #extHeader6-1z P {
   color: #ffffff;
@@ -1364,35 +1326,30 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
 }
-#extFeatures13-32 .etl-icon {
+#extFeatures13-3n .etl-icon {
   color: #666666;
 }
-#extFeatures13-32 .mbr-section-subtitle {
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-}
-#extFeatures13-32 .mbr-section-title {
+#extFeatures13-3n .mbr-section-title {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
   color: #ffffff;
 }
-#extFeatures13-32 .date P {
-  font-family: 'Lato', sans-serif;
-  font-size: 22px;
+#extFeatures13-3n .mbr-section-title SPAN {
   color: #ffffff;
 }
-#extFeatures13-32 P {
+#extFeatures13-3n SPAN {
+  color: #ffffff;
+}
+#extFeatures13-3n P {
+  color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
 }
-#extFeatures13-32 .date SPAN {
-  text-align: center;
+#extFeatures13-3n H4 {
+  color: #f3c649;
 }
-#extFeatures13-32 .mbr-section-title SPAN {
-  color: #ffffff;
-}
-#extFeatures13-32 SPAN {
-  color: #ffffff;
+#extFeatures13-3n .date SPAN {
+  font-size: 19px;
 }
 #extForm1-3d P {
   font-size: 16px;
@@ -1483,8 +1440,6 @@ h6,
 
 
 
-
-
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
   text-align: center;
@@ -1496,7 +1451,7 @@ h6,
 }
 #extHeader6-27 SPAN {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extHeader6-27 P {
   color: #ffffff;
@@ -1550,45 +1505,41 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
 }
-#extFeatures13-33 .etl-icon {
+#extFeatures13-3m .etl-icon {
   color: #666666;
 }
-#extFeatures13-33 .mbr-section-subtitle {
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-}
-#extFeatures13-33 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
+#extFeatures13-3m .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
-}
-#extFeatures13-33 .date P {
-  font-family: 'Lato', sans-serif;
-  font-size: 22px;
   color: #ffffff;
 }
-#extFeatures13-33 P {
+#extFeatures13-3m .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#extFeatures13-3m SPAN {
+  color: #ffffff;
+}
+#extFeatures13-3m P {
+  color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
 }
-#extFeatures13-33 .date SPAN {
-  text-align: center;
+#extFeatures13-3m H4 {
+  color: #f3c649;
 }
-#extFeatures13-33 .mbr-section-title SPAN {
-  color: #ffffff;
+#extFeatures13-3m .date SPAN {
+  font-size: 19px;
 }
-#extFeatures13-33 SPAN {
-  color: #ffffff;
-}
-#extForm1-3c P {
+#extForm1-3p P {
   font-size: 16px;
   color: #232323;
 }
-#extForm1-3c H2 {
+#extForm1-3p H2 {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 60px;
   color: #28324e;
 }
-#extForm1-3c .intro-box h4 {
+#extForm1-3p .intro-box h4 {
   color: #28324e;
 }
 #menu-2d .hide-buttons .nav-btn {
