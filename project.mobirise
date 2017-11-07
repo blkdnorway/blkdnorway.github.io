@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "trondheim.html",
+    "currentPage": "hjem.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -563,7 +563,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -895,7 +895,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -1554,7 +1554,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -2409,7 +2409,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -3335,7 +3335,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -4047,7 +4047,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
