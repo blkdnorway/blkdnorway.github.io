@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 124,
+    "uniqCompNum": 126,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -220,7 +220,9 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "SPAN": {
               "color": "#ffffff"
@@ -2046,7 +2048,7 @@
             ".date P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "21px",
+              "font-size": "22px",
               "color": "#ffffff"
             },
             "P": {
@@ -2063,11 +2065,11 @@
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
-            ".date DIV": {
-              "font-size": "21px"
+            "SPAN": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "extFeatures13-2z",
+          "_anchor": "extFeatures13-3h",
           "_params": {
             "iconsColor": "#666666",
             "blocks": "4",
@@ -2075,7 +2077,7 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-10.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2083,15 +2085,15 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
             "showTitle": true,
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS <br>IN NORWAY</span>",
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS <br>IN NORWAY</span><br>",
           "mainSubtitle": "Se hvor og når du kan møte Balakhilya das",
-          "date1": "<b><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">5 DECEMBER 2017</a><br></b><span style=\"font-style: normal;\">18:00&nbsp;Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
+          "date1": "<b><a href=\"oslo.html#features3-2h\" class=\"text-warning\">5. DECEMBER 2017</a><br></b><span style=\"font-style: normal;\">18:00&nbsp;Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
@@ -2103,11 +2105,11 @@
               "color": "#00a885"
             }
           },
-          "title1": "<a href=\"index-en.html#extHeader13-2m\">Seminar: KARMA</a>",
-          "text1": "<span style=\"font-style: normal;\">Why bad things happen to good people and how we can live in this world without creating karma.</span><br><span style=\"line-height: 1.5;\">Free entrance.</span><span style=\"line-height: 1.5;\">&nbsp;</span>",
-          "date2": "<div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">6 DECEMBER 2017</a><br></span></div>18:00 Litteraturhuset <br>Wergelandsveien 29<br>Oslo<br>",
-          "title2": "<a href=\"index-en.html#extHeader13-2m\">Seminar: LOST IN THE WORLD</a>",
-          "text2": "Why we sometime feel lonely even amongst friends, and how we can find true happiness in the world. <br>Free entrance.<br>",
+          "title1": "<a href=\"oslo.html#features3-2h\">Seminar: Karma</a>",
+          "text1": "<span style=\"font-style: normal;\">Why bad things happen to good people and how we can live in this world without creating karma.</span><br>Free entrance<span style=\"font-style: normal;\">.&nbsp;</span><br>",
+          "date2": "<div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><span style=\"font-style: normal;\"><a href=\"oslo.html#features3-2h\" class=\"text-warning\">6. DECEMBER 2017</a><br></span>18:00 Litteraturhuset</span></div>Wergelandsveien 29<br>Oslo<br>",
+          "title2": "<a href=\"oslo.html#features3-2h\">Seminar: Lost in the World</a>",
+          "text2": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, and how we can find true happiness in the world.&nbsp;</span><br>Free entrance.<br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2119,7 +2121,7 @@
               "color": "#00a885"
             }
           },
-          "date3": "<div style=\"text-align: left;\"><span style=\"line-height: 1.5;\"><b style=\"font-style: normal;\"><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">9 DESEMBER 2017</a><br></b></span></div>18:00 Kjøpmannsgata 12<br>Trondheim<span style=\"font-style: normal;\"><br></span>",
+          "date3": "<b style=\"font-style: normal;\"><a href=\"trondheim.html#features3-2j\" class=\"text-warning\">9. DECEMBER 2017</a></b><br><span style=\"font-style: normal;\">18:00 Kjøpmannsgata 12<br>Trondheim<br></span>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2131,11 +2133,11 @@
               "color": "#00a885"
             }
           },
-          "title3": "S<a href=\"index-en.html#extHeader13-2n\">Seminar: LOST IN THE WORLD</a>&nbsp;",
-          "text3": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, and how we can find true happiness in the world. <br></span>Free entrance.<br>",
-          "date4": "<div style=\"text-align: right;\"><span style=\"font-style: normal; line-height: 1.5;\"><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">10 DESEMBER 2017</a><br>14:00 Kongens gate 55</span></div><span style=\"font-style: normal;\">Trondheim<br></span>",
-          "title4": "<a href=\"trondheim.html\">POP-UP YOGA CAFE</a>E",
-          "text4": "An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.<br>Free entrance.<br>",
+          "title3": "<a href=\"trondheim.html#features3-2j\">Seminar: Lost in the World</a>",
+          "text3": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, and how we can find true happiness in the world.<br></span>Free entrance.<br>",
+          "date4": "<b style=\"font-style: normal;\"><a href=\"trondheim.html#features3-2j\" class=\"text-warning\">10. DECEMBER 2017</a></b><br><span style=\"font-style: normal;\">14:00 Kongens gate 55<br>Trondheim<br></span>",
+          "title4": "<a href=\"trondheim.html#features3-2j\">Pop-up Yoga Café</a>",
+          "text4": "<span style=\"font-style: normal;\">An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.<br></span>Free entrance.<br>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2252,7 +2254,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "<span style=\"font-weight: normal;\">END OF VISIT&nbsp;</span>"
+          "bottomTitle": "<span style=\"font-weight: normal;\">END OF VISIT</span>"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
@@ -2440,7 +2442,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2463,7 +2465,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15006.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3196,7 +3198,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3219,7 +3221,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15006.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3549,7 +3551,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3378.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4058,7 +4060,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4081,7 +4083,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15006.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
               "link": "",
               "alt": "",
               "title": "",

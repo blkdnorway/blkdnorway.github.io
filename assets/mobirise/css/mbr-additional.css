@@ -22,6 +22,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -748,6 +749,7 @@ h6,
 }
 #extFeatures13-2t .mbr-section-title SPAN {
   color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extFeatures13-2t SPAN {
   color: #ffffff;
@@ -1147,36 +1149,36 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
 }
-#extFeatures13-2z .etl-icon {
+#extFeatures13-3h .etl-icon {
   color: #666666;
 }
-#extFeatures13-2z .mbr-section-subtitle {
+#extFeatures13-3h .mbr-section-subtitle {
   font-family: 'Lato', sans-serif;
   font-size: 25px;
 }
-#extFeatures13-2z .mbr-section-title {
+#extFeatures13-3h .mbr-section-title {
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
-#extFeatures13-2z .date P {
+#extFeatures13-3h .date P {
   font-family: 'Lato', sans-serif;
-  font-size: 21px;
+  font-size: 22px;
   color: #ffffff;
 }
-#extFeatures13-2z P {
+#extFeatures13-3h P {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
   color: #ffffff;
 }
-#extFeatures13-2z .date SPAN {
+#extFeatures13-3h .date SPAN {
   text-align: center;
 }
-#extFeatures13-2z .mbr-section-title SPAN {
+#extFeatures13-3h .mbr-section-title SPAN {
   color: #ffffff;
   font-family: 'Open Sans Condensed', sans-serif;
 }
-#extFeatures13-2z .date DIV {
-  font-size: 21px;
+#extFeatures13-3h SPAN {
+  color: #ffffff;
 }
 #extHeader13-2m H3 {
   font-family: 'Open Sans Condensed', sans-serif;
