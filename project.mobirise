@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index-en.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 141,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -32,718 +32,6 @@
     "cookiesAlert": ""
   },
   "pages": {
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "3",
-            "bgColor": "#000000",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader6",
-          "_styles": {
-            "DIV": {
-              "color": "#475577",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
-            },
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#000000"
-            },
-            "SPAN": {
-              "font-size": "21px",
-              "color": "#414141"
-            }
-          },
-          "_anchor": "extHeader6-2s",
-          "_params": {
-            "imageSize": 90,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rob-bye-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.7,
-            "overlayColor": "#fff",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norges-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
-          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en annerledes forelesning - den handler om deg.<br>Er det mulig å leve et liv uten ensomhet, tristhet, angst eller stress?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden. Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.<br>Dette kan utgjøre en virkelig forskjell i livet ditt!</b></span><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
-          "media": {
-            "image": {
-              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6.png"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            },
-            "video": {
-              "active": true,
-              "src": "https://vimeo.com/241264771",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#faaf40"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Velkommen hit.",
-          "meta": "<span style=\"font-style: normal;\">Av Balakhilya das, 3 November 2017<br></span>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "BLOCKQUOTE": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content2-1r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Til alle dere der ute som har funnet meg og denne nettsiden; velkommen.</b></span></p><p><span style=\"font-style: normal;\"><b>Jeg er veldig glad for at du er her. Det er mitt håp at du vil kunne ta noe med deg herfra som vil fungere som et ledende lys i livet ditt.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">Jeg kom til denne helhetlige yogafilosofien på en indirekte måte. Jeg begynte å bli interessert i hatha yoga (fysisk yoga) som en måte å forbedre surfingen min, som på den tiden (1969) var hele mitt liv. Fordelene var umiddelbart åpenbare, og jeg begynte å se nærmere på emnet. Ved å lese begynte jeg å trene enkel meditasjon, spiste vegetarisk mat, og brukte mer og mer tid i dypere kontemplasjon av livets mening. Jeg hadde alltid vært en reisende, men nå begynte jeg på en indre reise. Underveis ble min verden, - både den ytre og den indre, stadig mer fredelig og rolig.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">I 1971 var jeg så utrolig heldig (uten tilfeldighet er jeg sikker på) å få komme i kontakt med mine åndelige lærere. Under deres ekspertise og veiledning mottok jeg og begynte å følge den gamle vitenskapen kalt Bhakti Yoga som jeg har fortsatt å gjøre til i dag. Og hvilken vakker og tilfredsstillende reise det har vært!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Så jeg ønsker på det sterkeste at du kan få den samme sjansen og velsignelsen som jeg har hatt, ufortjent som jeg er.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Beste ønsker,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures13",
-          "_styles": {
-            ".etl-icon": {
-              "color": "#666666"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "18px"
-            },
-            "H4": {
-              "color": "#f3c649"
-            },
-            ".date SPAN": {
-              "font-size": "19px"
-            }
-          },
-          "_anchor": "extFeatures13-3o",
-          "_params": {
-            "iconsColor": "#666666",
-            "blocks": "4",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-14.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": false,
-            "showDates": true
-          },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS I NORGE</span>",
-          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "date1": "<b style=\"font-style: normal;\"><a href=\"oslo.html\" class=\"text-warning\">5. desember 2017</a><br></b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien 29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-extFeatures2",
-              "linkInNewWindow": false,
-              "name": "arrow-cross",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "title1": "<a href=\"trondheim.html\">Seminar: Karma</a>",
-          "text1": "<span style=\"font-style: normal;\">Hvorfor dårlige ting skjer med gode mennesker og hvordan vi kan leve i denne verden uten å skape karma.</span><br>Gratis inngang.",
-          "date2": "<span style=\"font-style: normal;\"><b><a href=\"oslo.html\" class=\"text-warning\">6. desember 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
-          "title2": "<a href=\"oslo.html\">Seminar: Lost in the World</a>",
-          "text2": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?<br></span>Gratis inngang.<br>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "three-arrowfork",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "date3": "<span style=\"font-style: normal;\"><b><a href=\"trondheim.html\" class=\"text-warning\">9. desember 2017</a><br></b>18:00 Kjøpmannsgata 12<br>Trondheim</span><br>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "question",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "title3": "<a href=\"trondheim.html\">Seminar: Lost in the World</a>",
-          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?</span><br>Gratis inngang.<br>",
-          "date4": "<span style=\"font-style: normal;\"><b><a href=\"trondheim.html\" class=\"text-warning\">10. desember 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
-          "title4": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
-          "text4": "<span style=\"font-style: normal;\">Møt andre yoga-entusiaster til seminar og spørsmål med internasjonal yogamester og foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter til å kjøpe smakfull vegetarmat på eventen.<br></span>Gratis inngang.",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "people-oncloud",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "date5": "5 May 2016",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title5": "5. Awesome Reports",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date6": "6 June 2016",
-          "title6": "6. Multi Homepages",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-extFeatures2",
-              "name": "layers",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date7": "7 July 2016",
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "upload",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title7": "7. Responsive Design",
-          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date8": "8 August 2016",
-          "title8": "8. Smart Watch",
-          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date9": "9 September 2016",
-          "media9": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title9": "9. Design out of the box",
-          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date10": "10 October 2016",
-          "title10": "10. Awesome Reports",
-          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media10": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date11": "11 November 2016",
-          "media11": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title11": "11. Design out of the box",
-          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date12": "12 December 2016",
-          "title12": "12. Awesome Reports",
-          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media12": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK<br>AVSLUTTES</span>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-size": "30px"
-            },
-            "P": {
-              "font-size": "18px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "features3-2r",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337-1.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "oslo.html#extHeader13-21",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Lost in the World",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Hvorfor er ensomhet et problem? Fordi vi ikke liker å være ensomme, vi liker ikke den følelsen. I denne verden prøver vi veldig hardt å alltid undertrykke eller gjemme det. Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?<br>Hør fra yogamester Balakhilya das hvor sann lykke kan finnes - og lær deg hvordan du kan skape et liv av harmoni, glede, og mening!<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x390-1.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "oslo.html#extHeader13-21",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Karma<br>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "De fleste har en eller annen forståelse av begrepet karma. Tanken om at det du gjør med andre kommer tilbake til deg er en vanlig oppfatning. Kanskje du endrer din oppførsel med ideen om å tiltrekke deg mer god karma enn dårlig karma. Men visste du at selv \"god karma\" har en alvorlig ulempe? Hvis selv god karma ikke er ønskelig, hvordan kan vi leve i denne verden uten å skape karma?",
-          "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "hva-skjer.html#msg-box8-7l",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Pop-up Yoga Cafe",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "En spennende mulighet til å møte andre yoga-entusiaster til seminar og spørsmål med internasjonal foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter til å kjøpe smakfull vegetarmat på eventen. Gratis inngang.",
-          "button3": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - TRONDHEIM</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Hatha Yoga",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extForm1",
-          "_styles": {
-            "P": {
-              "font-size": "16px",
-              "color": "#232323"
-            },
-            "H2": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "60px",
-              "color": "#28324e"
-            },
-            ".intro-box h4": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "extForm1-3q",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "iconsColor": "#333333",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-2.jpg",
-            "bgColor": "#e9e9e9",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showContacts": true,
-            "showIcons": true,
-            "showSubtitle": false,
-            "showText": true,
-            "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x1500-2.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "size": 0,
-              "class": "mbr-iconfont mbr-iconfont-header2 ",
-              "color": "@primaryColor"
-            }
-          },
-          "title": "KONTAKT OSS",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "title1": "Oslo",
-          "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "mountain",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "title2": "Trondheim",
-          "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
-          "form": {
-            "action": "info@trondheimmeditasjon.no",
-            "alerts": {
-              "success": "Thanks for the message!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND TIL OSS</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.15rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#77905d"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#88a26f!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#90a878"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".btn": {
-              "font-size": "15px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-f",
-          "_params": {
-            "bgColor": "#90a878",
-            "fontSize": "1.15",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index-en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
-        }
-      ]
-    },
     "videoer.html": {
       "settings": {
         "title": "",
@@ -1372,7 +660,7 @@
               "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "hjem.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1382,8 +670,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index-en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
     },
@@ -1845,7 +1133,7 @@
               "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "hjem.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1855,786 +1143,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index-en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
-        }
-      ]
-    },
-    "index-en.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-15",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "3",
-            "bgColor": "#000000",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader6",
-          "_styles": {
-            "DIV": {
-              "color": "#475577",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
-            },
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            "SPAN": {
-              "font-size": "20px",
-              "color": "#414141"
-            },
-            "B": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "extHeader6-2y",
-          "_params": {
-            "imageSize": 90,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rob-bye-2000x1333-1.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.7,
-            "overlayColor": "#fff",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>Meet a world-known</div><div>expert in the Wisdom of Yoga</div>",
-          "text": "<b><span style=\"font-style: normal;\">We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, stress - is it even possible?<br>Discover how to live a life that actually feels good on the inside, not one that only looks good on the outside. Meet world-renowned yogi, lecturer, and meditation master Balakhilya das - travelling around the world to give lectures on the ancient yet highly relevant wisdom of yoga. In a warm yet authorative manner, Balakhilya das helps people to resolve conflicts and to find true and lasting happiness.<br>This may just change your life!</span><br><span style=\"font-style: normal;\"><br>BOOK YOUR FREE SPOT:</span></b>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2m\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2n\">TRONDHEIM</a>",
-          "media": {
-            "image": {
-              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6_1.png"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            },
-            "video": {
-              "active": true,
-              "src": "https://vimeo.com/241264771",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-17",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-18",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Welcome to YogaVisdom.no",
-          "meta": "By Balakhilya das, 3 November 2017<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "BLOCKQUOTE": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content2-19",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>To all of you out there who have found me and this website; welcome.</b></span></p><p><span style=\"font-style: normal;\"><b>I'm very glad you're here. It is my hope that you will be able to take something from here that will serve as a guiding light in your life.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">I came to the yoga philosophy in an indirect way. I began to be interested in hatha yoga (physical yoga) as a way to improve my surfing, which at that time (1969) was my whole life. The benefits were immediately obvious, and I started looking into the subject deeper. By reading, I began to practice simple meditation, ate vegetarian food, and spent more and more time in deeper contemplation of the meaning of life. I had always been a traveler, but now I started on an inner journey. Along the way, my world, both the outer and the inner, became more peaceful and calm.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">In 1971, I was so incredibly fortunate (not by coincidence I'm sure) to get in touch with my Spiritual Masters. Under their expertise and guidance, I received and began to follow the ancient science called Bhakti Yoga, which I have been following up until this day. And what a beautiful and fulfilling journey it has been!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">So I strongly wish that you will have the same chance that I have had, undeserving as I am.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Best wishes,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures13",
-          "_styles": {
-            ".etl-icon": {
-              "color": "#666666"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "18px"
-            },
-            "H4": {
-              "color": "#f3c649"
-            },
-            ".date SPAN": {
-              "font-size": "19px"
-            }
-          },
-          "_anchor": "extFeatures13-3s",
-          "_params": {
-            "iconsColor": "#666666",
-            "blocks": "4",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-14.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": false,
-            "showDates": true
-          },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS IN NORWAY</span>",
-          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "date1": "<b style=\"font-style: normal;\"><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">5. december 2017</a><br></b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien 29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-extFeatures2",
-              "linkInNewWindow": false,
-              "name": "arrow-cross",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "title1": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Karma</a>",
-          "text1": "<span style=\"font-style: normal;\">Why bad things happen to good people and how we can live in this world without creating karma.<br></span>Free entrance.<br>",
-          "date2": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">6. december 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
-          "title2": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Lost in the World</a>",
-          "text2": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, what the solution is - and how we can find true happiness in the world. <br></span>Free entrance.<br>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "three-arrowfork",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "date3": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">9. december 2017</a><br></b>18:00 Kjøpmannsgata 12<br>Trondheim</span><br>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "question",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "title3": "<a href=\"index-en.html#extHeader13-2n\">Seminar: Lost in the World</a>",
-          "text3": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, what the solution is - and how we can find true happiness in the world. <br></span>Free entrance.<br>",
-          "date4": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">10. december 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
-          "title4": "<a href=\"index-en.html#extHeader13-2n\">Pop-up Yoga Café</a>",
-          "text4": "<span style=\"font-style: normal;\">An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.<br></span>Free entrance.<br>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont-features6",
-              "linkInNewWindow": false,
-              "name": "people-oncloud",
-              "family": "iconsMind",
-              "active": true,
-              "size": 0,
-              "color": "#41a85f"
-            }
-          },
-          "date5": "5 May 2016",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title5": "5. Awesome Reports",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date6": "6 June 2016",
-          "title6": "6. Multi Homepages",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-extFeatures2",
-              "name": "layers",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date7": "7 July 2016",
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "upload",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title7": "7. Responsive Design",
-          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date8": "8 August 2016",
-          "title8": "8. Smart Watch",
-          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "linegraph",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date9": "9 September 2016",
-          "media9": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title9": "9. Design out of the box",
-          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date10": "10 October 2016",
-          "title10": "10. Awesome Reports",
-          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media10": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "date11": "11 November 2016",
-          "media11": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "heart",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title11": "11. Design out of the box",
-          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date12": "12 December 2016",
-          "title12": "12. Awesome Reports",
-          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "media12": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "bottomTitle": "<span style=\"font-weight: normal;\">END OF VISIT&nbsp;</span>"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader13",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "extHeader13-2m",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250-1.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
-            "showTitle": true,
-            "showText": true,
-            "countdown": "2017/12/05 18:00",
-            "showArrow": true
-          },
-          "title2": "GET FREE TICKET",
-          "form": {
-            "action": "info@trondheimmeditasjon.no",
-            "alerts": {
-              "success": "Thanks - you are signed up!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NAME*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EMAIL*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "PHONE*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "WHICH SEMINAR (KARMA OR LOST?)*"
-              }
-            }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN OSLO<br></a>",
-          "title": "SEMINARS IN OSLO",
-          "text": "<span style=\"font-style: normal;\">5 DECEMBER - KARMA<br>6 DECEMBER - LOST IN THE WORLD<br><br>18:00 LITTERATURHUSET<br>WERGELANDSVEIEN 29, OSLO<br>TEL. 98041818</span><br>"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader13",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "extHeader13-2n",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1600-1.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
-            "showTitle": true,
-            "showText": true,
-            "countdown": "2017/12/09 18:00",
-            "showArrow": false
-          },
-          "title2": "GET FREE TICKET<br>",
-          "form": {
-            "action": "info@trondheimmeditasjon.no",
-            "alerts": {
-              "success": "Thanks - you are signed up!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NAME*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EMAIL*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "PHONE*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "WHICH EVENT (SEMINAR OR CAFE)?*"
-              }
-            }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN TRONDHEIM</a>",
-          "title": "TRONDHEIM<br>",
-          "text": "<span style=\"line-height: 1.5;\"><b style=\"font-style: normal;\">SEMINAR - LOST IN THE WORLD<br></b><span style=\"font-style: normal;\">9 DECEMBER&nbsp;18:00</span></span><span style=\"font-style: normal;\"><br>KJØPMANNSGATA 12<br></span><br><b style=\"font-style: normal;\">POP-UP YOGA CAFE<br></b><span style=\"font-style: normal;\">10 DECEMBER 14:00<br>KONGENS GATE 55</span>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extForm1",
-          "_styles": {
-            "P": {
-              "font-size": "16px",
-              "color": "#232323"
-            },
-            "H2": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "60px",
-              "color": "#28324e"
-            },
-            ".intro-box h4": {
-              "color": "#28324e"
-            }
-          },
-          "_anchor": "extForm1-3r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "iconsColor": "#333333",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-2.jpg",
-            "bgColor": "#e9e9e9",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showContacts": true,
-            "showIcons": true,
-            "showSubtitle": false,
-            "showText": true,
-            "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x1500-2.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "size": 0,
-              "class": "mbr-iconfont mbr-iconfont-header2 ",
-              "color": "@primaryColor"
-            }
-          },
-          "title": "CONTACT US",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "title1": "Oslo",
-          "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "mountain",
-              "family": "icon54",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "title2": "Trondheim",
-          "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
-          "form": {
-            "action": "info@trondheimmeditasjon.no",
-            "alerts": {
-              "success": "Thanks for the message!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND TO US</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.15rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#77905d"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#88a26f!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#90a878"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".btn": {
-              "font-size": "15px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1e",
-          "_params": {
-            "bgColor": "#90a878",
-            "fontSize": "1.15",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index-en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
     },
@@ -3201,7 +1711,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg7.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3224,7 +1734,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15003.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15006.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3371,7 +1881,7 @@
               "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "hjem.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3381,8 +1891,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index-en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
     },
@@ -3554,7 +2064,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4226,7 +2736,7 @@
               "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "hjem.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -4236,8 +2746,1646 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index-en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
+        }
+      ]
+    },
+    "en.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_styles": {
+            "DIV": {
+              "color": "#475577",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "20px",
+              "color": "#414141"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "extHeader6-2y",
+          "_params": {
+            "imageSize": 90,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rob-bye-2000x1333-1.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>Meet a world-known</div><div>expert in the Wisdom of Yoga</div>",
+          "text": "<b><span style=\"font-style: normal;\">We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, stress - is it even possible?<br>Discover how to live a life that actually feels good on the inside, not one that only looks good on the outside. Meet world-renowned yogi, lecturer, and meditation master Balakhilya das - travelling around the world to give lectures on the ancient yet highly relevant wisdom of yoga. In a warm yet authorative manner, Balakhilya das helps people to resolve conflicts and to find true and lasting happiness.<br>This may just change your life!</span><br><span style=\"font-style: normal;\"><br>BOOK YOUR FREE SPOT:</span></b>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2m\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2n\">TRONDHEIM</a>",
+          "media": {
+            "image": {
+              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6_1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/241264771",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-17",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Welcome to YogaVisdom.no",
+          "meta": "By Balakhilya das, 3 November 2017<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content2-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>To all of you out there who have found me and this website; welcome.</b></span></p><p><span style=\"font-style: normal;\"><b>I'm very glad you're here. It is my hope that you will be able to take something from here that will serve as a guiding light in your life.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">I came to the yoga philosophy in an indirect way. I began to be interested in hatha yoga (physical yoga) as a way to improve my surfing, which at that time (1969) was my whole life. The benefits were immediately obvious, and I started looking into the subject deeper. By reading, I began to practice simple meditation, ate vegetarian food, and spent more and more time in deeper contemplation of the meaning of life. I had always been a traveler, but now I started on an inner journey. Along the way, my world, both the outer and the inner, became more peaceful and calm.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">In 1971, I was so incredibly fortunate (not by coincidence I'm sure) to get in touch with my Spiritual Masters. Under their expertise and guidance, I received and began to follow the ancient science called Bhakti Yoga, which I have been following up until this day. And what a beautiful and fulfilling journey it has been!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">So I strongly wish that you will have the same chance that I have had, undeserving as I am.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Best wishes,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px"
+            },
+            "H4": {
+              "color": "#f3c649"
+            },
+            ".date SPAN": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "extFeatures13-3s",
+          "_params": {
+            "iconsColor": "#666666",
+            "blocks": "4",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-14.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showDates": true
+          },
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS IN NORWAY</span>",
+          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "date1": "<b style=\"font-style: normal;\"><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">5. december 2017</a><br></b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien 29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "arrow-cross",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "title1": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Karma</a>",
+          "text1": "<span style=\"font-style: normal;\">Why bad things happen to good people and how we can live in this world without creating karma.<br></span>Free entrance.<br>",
+          "date2": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">6. december 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
+          "title2": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Lost in the World</a>",
+          "text2": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, what the solution is - and how we can find true happiness in the world. <br></span>Free entrance.<br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "three-arrowfork",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "date3": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">9. december 2017</a><br></b>18:00 Kjøpmannsgata 12<br>Trondheim</span><br>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "title3": "<a href=\"index-en.html#extHeader13-2n\">Seminar: Lost in the World</a>",
+          "text3": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, what the solution is - and how we can find true happiness in the world. <br></span>Free entrance.<br>",
+          "date4": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">10. december 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
+          "title4": "<a href=\"index-en.html#extHeader13-2n\">Pop-up Yoga Café</a>",
+          "text4": "<span style=\"font-style: normal;\">An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.<br></span>Free entrance.<br>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "people-oncloud",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "date5": "5 May 2016",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title5": "5. Awesome Reports",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date7": "7 July 2016",
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date9": "9 September 2016",
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date11": "11 November 2016",
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "bottomTitle": "<span style=\"font-weight: normal;\">END OF VISIT&nbsp;</span>"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader13",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px",
+              "color": "#fac51c"
+            },
+            "H4": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extHeader13-2m",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250-1.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showFormTitle": true,
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2017/12/05 18:00",
+            "showArrow": true
+          },
+          "title2": "GET FREE TICKET",
+          "form": {
+            "action": "info@trondheimmeditasjon.no",
+            "alerts": {
+              "success": "Thanks - you are signed up!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "NAME*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "EMAIL*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "PHONE*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "WHICH SEMINAR (KARMA OR LOST?)*"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN OSLO<br></a>",
+          "title": "SEMINARS IN OSLO",
+          "text": "<span style=\"font-style: normal;\">5 DECEMBER - KARMA<br>6 DECEMBER - LOST IN THE WORLD<br><br>18:00 LITTERATURHUSET<br>WERGELANDSVEIEN 29, OSLO<br>TEL. 98041818</span><br>"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader13",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px",
+              "color": "#fac51c"
+            },
+            "H4": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extHeader13-2n",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1600-1.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showFormTitle": true,
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2017/12/09 18:00",
+            "showArrow": false
+          },
+          "title2": "GET FREE TICKET<br>",
+          "form": {
+            "action": "info@trondheimmeditasjon.no",
+            "alerts": {
+              "success": "Thanks - you are signed up!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "NAME*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "EMAIL*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "PHONE*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "WHICH EVENT (SEMINAR OR CAFE)?*"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN TRONDHEIM</a>",
+          "title": "TRONDHEIM<br>",
+          "text": "<span style=\"line-height: 1.5;\"><b style=\"font-style: normal;\">SEMINAR - LOST IN THE WORLD<br></b><span style=\"font-style: normal;\">9 DECEMBER&nbsp;18:00</span></span><span style=\"font-style: normal;\"><br>KJØPMANNSGATA 12<br></span><br><b style=\"font-style: normal;\">POP-UP YOGA CAFE<br></b><span style=\"font-style: normal;\">10 DECEMBER 14:00<br>KONGENS GATE 55</span>"
+        },
+        {
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_anchor": "extHeader6-3v",
+          "_params": {
+            "imageSize": "70",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1332-1.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "INSPIRING<br>YOGA WISDOM<br>VIDEOS",
+          "text": "<span style=\"font-style: normal;\"><b>Hvem er jeg? Hva er meningen med mitt liv? Hvor kan jeg finne sann lykke?</b><br>Vi ønsker alle å være lykkelige, og yoga-systemet lærer oss at vi må gå inn på en reise innover for å finne ekte lykke. Du kan selv starte dette eventyret i dag ved å engasjere deg i mantrameditasjon, og ved å låne ørene dine til desse opplysende seminarene fra yoga-vitenskapen.<br></span><span style=\"font-style: normal;\"><br><b>OBS: &nbsp;PÅ ENGELSK</b></span><br>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-920x581-1.png",
+              "link": "https://vimeo.com/channels/scienceofyoga",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "MEDITATION",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/193053132",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-09-10-12-55-23-3.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "GUIDED MEDITATION WITH MANTRA<br>Balakhilya das",
+                "active": false
+              },
+              {
+                "tags": "MY IDENTITY",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/232350800",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-09-10-12-55-40-3.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "FINDING THE TRUE SELF<br>Acharya das",
+                "active": false
+              },
+              {
+                "tags": "HAPPINESS",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-578.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
+                "active": true
+              },
+              {
+                "tags": "HAPPINESS",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/channels/scienceofyoga/233208239",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-22-52-1.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "<p>THE QUEST FOR HAPPINESS<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Radha Krishna das</span></p>",
+                "active": false
+              },
+              {
+                "tags": "HAPPINESS",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/232338238",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-26-00-1.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "<p>HAPPINESS &amp; MINDFULNESS - IS THERE A CONNECTION?<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Acharya das</span></p>",
+                "active": false
+              },
+              {
+                "tags": "MEDITATION",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/channels/scienceofyoga/232637715",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-24-49-1.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "<p>YOGA - UNDERSTANDING THE GOAL AND DIFFERENT PATHS<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Balakhilya das</span></p>",
+                "active": false
+              }
+            ],
+            "spacing": "4",
+            "showText": true,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-3w",
+          "articleLayout": false,
+          "allItem": "SHOW ALL"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#232323"
+            },
+            "H2": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "60px",
+              "color": "#28324e"
+            },
+            ".intro-box h4": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "extForm1-3r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "iconsColor": "#333333",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-2.jpg",
+            "bgColor": "#e9e9e9",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showContacts": true,
+            "showIcons": true,
+            "showSubtitle": false,
+            "showText": true,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x1500-2.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "title": "CONTACT US",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "flower",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title1": "Oslo",
+          "subTitle1": "Ready for offers & cooperation",
+          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "mountain",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title2": "Trondheim",
+          "subTitle2": "Glad to meet new people",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
+          "form": {
+            "action": "info@trondheimmeditasjon.no",
+            "alerts": {
+              "success": "Thanks for the message!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND TO US</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#77905d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#88a26f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#90a878"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1e",
+          "_params": {
+            "bgColor": "#90a878",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "hjem.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
+        }
+      ]
+    },
+    "hjem.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_styles": {
+            "DIV": {
+              "color": "#475577",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "21px",
+              "color": "#414141"
+            }
+          },
+          "_anchor": "extHeader6-2s",
+          "_params": {
+            "imageSize": 90,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rob-bye-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norges-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
+          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en annerledes forelesning - den handler om deg.<br>Er det mulig å leve et liv uten ensomhet, tristhet, angst eller stress?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden. Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.<br>Dette kan utgjøre en virkelig forskjell i livet ditt!</b></span><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
+          "media": {
+            "image": {
+              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/241264771",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#faaf40"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Velkommen hit.",
+          "meta": "<span style=\"font-style: normal;\">Av Balakhilya das, 3 November 2017<br></span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "BLOCKQUOTE": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content2-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Til alle dere der ute som har funnet meg og denne nettsiden; velkommen.</b></span></p><p><span style=\"font-style: normal;\"><b>Jeg er veldig glad for at du er her. Det er mitt håp at du vil kunne ta noe med deg herfra som vil fungere som et ledende lys i livet ditt.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">Jeg kom til denne helhetlige yogafilosofien på en indirekte måte. Jeg begynte å bli interessert i hatha yoga (fysisk yoga) som en måte å forbedre surfingen min, som på den tiden (1969) var hele mitt liv. Fordelene var umiddelbart åpenbare, og jeg begynte å se nærmere på emnet. Ved å lese begynte jeg å trene enkel meditasjon, spiste vegetarisk mat, og brukte mer og mer tid i dypere kontemplasjon av livets mening. Jeg hadde alltid vært en reisende, men nå begynte jeg på en indre reise. Underveis ble min verden, - både den ytre og den indre, stadig mer fredelig og rolig.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">I 1971 var jeg så utrolig heldig (uten tilfeldighet er jeg sikker på) å få komme i kontakt med mine åndelige lærere. Under deres ekspertise og veiledning mottok jeg og begynte å følge den gamle vitenskapen kalt Bhakti Yoga som jeg har fortsatt å gjøre til i dag. Og hvilken vakker og tilfredsstillende reise det har vært!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Så jeg ønsker på det sterkeste at du kan få den samme sjansen og velsignelsen som jeg har hatt, ufortjent som jeg er.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Beste ønsker,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px"
+            },
+            "H4": {
+              "color": "#f3c649"
+            },
+            ".date SPAN": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "extFeatures13-3o",
+          "_params": {
+            "iconsColor": "#666666",
+            "blocks": "4",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-14.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showDates": true
+          },
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS I NORGE</span>",
+          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "date1": "<b style=\"font-style: normal;\"><a href=\"oslo.html\" class=\"text-warning\">5. desember 2017</a><br></b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien 29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "arrow-cross",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "title1": "<a href=\"trondheim.html\">Seminar: Karma</a>",
+          "text1": "<span style=\"font-style: normal;\">Hvorfor dårlige ting skjer med gode mennesker og hvordan vi kan leve i denne verden uten å skape karma.</span><br>Gratis inngang.",
+          "date2": "<span style=\"font-style: normal;\"><b><a href=\"oslo.html\" class=\"text-warning\">6. desember 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
+          "title2": "<a href=\"oslo.html\">Seminar: Lost in the World</a>",
+          "text2": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?<br></span>Gratis inngang.<br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "three-arrowfork",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "date3": "<span style=\"font-style: normal;\"><b><a href=\"trondheim.html\" class=\"text-warning\">9. desember 2017</a><br></b>18:00 Kjøpmannsgata 12<br>Trondheim</span><br>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "title3": "<a href=\"trondheim.html\">Seminar: Lost in the World</a>",
+          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?</span><br>Gratis inngang.<br>",
+          "date4": "<span style=\"font-style: normal;\"><b><a href=\"trondheim.html\" class=\"text-warning\">10. desember 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
+          "title4": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
+          "text4": "<span style=\"font-style: normal;\">Møt andre yoga-entusiaster til seminar og spørsmål med internasjonal yogamester og foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter til å kjøpe smakfull vegetarmat på eventen.<br></span>Gratis inngang.",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "people-oncloud",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "date5": "5 May 2016",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title5": "5. Awesome Reports",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date7": "7 July 2016",
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date9": "9 September 2016",
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date11": "11 November 2016",
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK<br>AVSLUTTES</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "18px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features3-2r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337-1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "oslo.html#extHeader13-21",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Lost in the World",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Hvorfor er ensomhet et problem? Fordi vi ikke liker å være ensomme, vi liker ikke den følelsen. I denne verden prøver vi veldig hardt å alltid undertrykke eller gjemme det. Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?<br>Hør fra yogamester Balakhilya das hvor sann lykke kan finnes - og lær deg hvordan du kan skape et liv av harmoni, glede, og mening!<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x390-1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "oslo.html#extHeader13-21",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Karma<br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "De fleste har en eller annen forståelse av begrepet karma. Tanken om at det du gjør med andre kommer tilbake til deg er en vanlig oppfatning. Kanskje du endrer din oppførsel med ideen om å tiltrekke deg mer god karma enn dårlig karma. Men visste du at selv \"god karma\" har en alvorlig ulempe? Hvis selv god karma ikke er ønskelig, hvordan kan vi leve i denne verden uten å skape karma?",
+          "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3379.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "hva-skjer.html#msg-box8-7l",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Pop-up Yoga Cafe",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "En spennende mulighet til å møte andre yoga-entusiaster til seminar og spørsmål med internasjonal foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter til å kjøpe smakfull vegetarmat på eventen. Gratis inngang.",
+          "button3": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - TRONDHEIM</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Hatha Yoga",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#232323"
+            },
+            "H2": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "60px",
+              "color": "#28324e"
+            },
+            ".intro-box h4": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "extForm1-3q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "iconsColor": "#333333",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-2.jpg",
+            "bgColor": "#e9e9e9",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showContacts": true,
+            "showIcons": true,
+            "showSubtitle": false,
+            "showText": true,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x1500-2.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "title": "KONTAKT OSS",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "flower",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title1": "Oslo",
+          "subTitle1": "Ready for offers & cooperation",
+          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "mountain",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title2": "Trondheim",
+          "subTitle2": "Glad to meet new people",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
+          "form": {
+            "action": "info@trondheimmeditasjon.no",
+            "alerts": {
+              "success": "Thanks for the message!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND TIL OSS</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#77905d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#88a26f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#90a878"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "bgColor": "#90a878",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "hjem.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
     }
