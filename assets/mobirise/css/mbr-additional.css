@@ -17,8 +17,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -719,38 +717,42 @@ h6,
 #buttons1-s .btn {
   font-size: 16px;
 }
-#extFeatures13-34 .etl-icon {
+#extFeatures13-3y .etl-icon {
   color: #666666;
 }
-#extFeatures13-34 .mbr-section-subtitle {
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-}
-#extFeatures13-34 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
+#extFeatures13-3y .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
-}
-#extFeatures13-34 .date P {
-  font-family: 'Lato', sans-serif;
-  font-size: 22px;
   color: #ffffff;
 }
-#extFeatures13-34 P {
+#extFeatures13-3y .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#extFeatures13-3y SPAN {
+  color: #ffffff;
+}
+#extFeatures13-3y P {
+  color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
 }
-#extFeatures13-34 .date SPAN {
-  text-align: center;
+#extFeatures13-3y H4 {
+  color: #f3c649;
 }
-#extFeatures13-34 .mbr-section-title SPAN {
-  color: #ffffff;
-  font-family: 'Open Sans Condensed', sans-serif;
+#extFeatures13-3y .date SPAN {
+  font-size: 19px;
 }
-#extFeatures13-34 SPAN {
-  color: #ffffff;
-}
-#form1-10 .form-control-label {
+#extForm1-3z P {
+  font-size: 16px;
   color: #232323;
+}
+#extForm1-3z H2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 60px;
+  color: #28324e;
+}
+#extForm1-3z .intro-box h4 {
+  color: #28324e;
 }
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
@@ -817,56 +819,9 @@ h6,
   font-size: 15px;
 }
 
-
-
-
-
-
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
   text-align: center;
-}
-#extForm1-39 P {
-  font-size: 16px;
-  color: #232323;
-}
-#extForm1-39 H2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 60px;
-  color: #28324e;
-}
-#extForm1-39 .intro-box h4 {
-  color: #28324e;
-}
-#extFeatures13-35 .etl-icon {
-  color: #666666;
-}
-#extFeatures13-35 .mbr-section-subtitle {
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-}
-#extFeatures13-35 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 36px;
-}
-#extFeatures13-35 .date P {
-  font-family: 'Lato', sans-serif;
-  font-size: 22px;
-  color: #ffffff;
-}
-#extFeatures13-35 P {
-  font-family: 'Lato', sans-serif;
-  font-size: 18px;
-}
-#extFeatures13-35 .date SPAN {
-  text-align: center;
-}
-#extFeatures13-35 .mbr-section-title SPAN {
-  color: #ffffff;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#extFeatures13-35 SPAN {
-  color: #ffffff;
 }
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
@@ -931,6 +886,18 @@ h6,
 }
 #menu-z .btn {
   font-size: 15px;
+}
+#extForm1-3x P {
+  font-size: 16px;
+  color: #232323;
+}
+#extForm1-3x H2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 60px;
+  color: #28324e;
+}
+#extForm1-3x .intro-box h4 {
+  color: #28324e;
 }
 
 
