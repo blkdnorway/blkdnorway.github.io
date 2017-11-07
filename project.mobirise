@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 128,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -397,6 +397,237 @@
               "color": "#f3c649"
             }
           }
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            },
+            ".date P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px",
+              "color": "#ffffff"
+            },
+            ".date SPAN": {
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extFeatures13-3j",
+          "_params": {
+            "iconsColor": "#666666",
+            "blocks": "4",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-10.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showDates": true
+          },
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS <br>I NORGE</span><br>",
+          "mainSubtitle": "Se hvor og når du kan møte Balakhilya das",
+          "date1": "<b><a href=\"oslo.html#features3-2h\" class=\"text-warning\">5. DESEMBER 2017</a><br></b><span style=\"font-style: normal;\">18:00&nbsp;Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "recycle-2",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "title1": "<a href=\"oslo.html#features3-2h\">Seminar: Karma</a>",
+          "text1": "<span style=\"font-style: normal;\">Hvorfor dårlige ting skjer med gode mennesker og hvordan vi kan leve i denne verden uten å skape karma.<br>Gratis inngang.</span>&nbsp;",
+          "date2": "<div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><span style=\"font-style: normal;\"><a href=\"oslo.html#features3-2h\" class=\"text-warning\">6. DESEMBER 2017</a><br></span>18:00 Litteraturhuset</span></div>Wergelandsveien 29<br>Oslo<br>",
+          "title2": "<a href=\"oslo.html#features3-2h\">Seminar: Lost in the World</a>",
+          "text2": "<span style=\"font-style: normal;\">Hvorfor vi selv med venner runt om oss kan føle oss ensom, og hvordan vi kan finne sann lykke i verden. Gratis</span> <span style=\"font-style: normal;\">inngang.</span>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "arrow-squiggly",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "date3": "<b style=\"font-style: normal;\"><a href=\"trondheim.html#features3-2j\" class=\"text-warning\">9. DESEMBER 2017</a></b><br><span style=\"font-style: normal;\">18:00 Kjøpmannsgata 12<br>Trondheim<br></span>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "title3": "<a href=\"trondheim.html#features3-2j\">Seminar: Lost in the World</a>",
+          "text3": "<span style=\"font-style: normal;\">Hvorfor vi selv med venner runt om oss kan føle oss ensom, og hvordan vi kan finne sann lykke i verden. Gratis inngang.</span>",
+          "date4": "<b style=\"font-style: normal;\"><a href=\"trondheim.html#features3-2j\" class=\"text-warning\">10. DESEMBER 2017</a></b><br><span style=\"font-style: normal;\">14:00 Kongens gate 55<br>Trondheim<br></span>",
+          "title4": "<a href=\"trondheim.html#features3-2j\">Pop-up Yoga Café</a>",
+          "text4": "Seminar og spørsmål med internasjonal yogi og foredragsholder Balakhilya das. Muligheter for å kjøpe smakfull vegetarmat. Gratis inngang.<br>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "people-oncloud",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "date5": "<span style=\"font-style: normal;\"><b><a href=\"trondheim.html\" class=\"text-success\">16 desember 2017</a><br></b>Storbuan Økosamfunn<br>Trondheim<br></span>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "flower",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "title5": "<a href=\"trondheim.html\">Meditation &amp; Yoga Retreat</a>",
+          "text5": "<span style=\"font-style: normal;\">En mulighet til å gi slipp på all vardagslig stress og bekymringer. Bli med på en dag med beroligende meditasjon, god vegetarmat, og seminar av yogamester Balakhilya das!</span>",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date7": "7 July 2016",
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date9": "9 September 2016",
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date11": "11 November 2016",
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK AVSLUTTES</span>"
         },
         {
           "_tags": [
@@ -2425,7 +2656,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg16.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg19.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2448,7 +2679,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150015.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150018.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3181,7 +3412,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg16.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg19.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3204,7 +3435,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150015.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150018.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3534,7 +3765,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33717.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33720.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4043,7 +4274,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg16.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg19.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4066,7 +4297,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150015.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150018.png",
               "link": "",
               "alt": "",
               "title": "",
