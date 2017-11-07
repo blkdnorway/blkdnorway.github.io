@@ -1251,6 +1251,8 @@ h6,
 
 
 
+
+
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
@@ -1265,17 +1267,14 @@ h6,
 }
 #extHeader6-2y P {
   font-family: 'Lato', sans-serif;
+  color: #000000;
 }
 #extHeader6-2y SPAN {
   font-size: 20px;
   color: #414141;
 }
 #extHeader6-2y B {
-  color: #000000;
-}
-#msg-box8-17 .mbr-section-title,
-#msg-box8-17 p {
-  color: #fff;
+  color: #414141;
 }
 #header3-18 .mbr-section-title,
 #header3-18 .mbr-section-subtitle {
@@ -1315,6 +1314,22 @@ h6,
 }
 #extFeatures13-3s .date SPAN {
   font-size: 19px;
+}
+#msg-box5-40 P {
+  text-align: right;
+  font-size: 20px;
+}
+#msg-box5-40 SPAN {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box5-40 H3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+}
+#msg-box5-40 DIV {
+  font-size: 36px;
 }
 #extHeader13-2m H3 {
   font-family: 'Open Sans Condensed', sans-serif;

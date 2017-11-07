@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "hjem.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 144,
+    "uniqCompNum": 145,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2628,14 +2628,15 @@
             },
             "P": {
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000"
             },
             "SPAN": {
               "font-size": "20px",
               "color": "#414141"
             },
             "B": {
-              "color": "#000000"
+              "color": "#414141"
             }
           },
           "_anchor": "extHeader6-2y",
@@ -2658,7 +2659,7 @@
             "showButtons": true
           },
           "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>Meet a world-known</div><div>expert in the Wisdom of Yoga</div>",
-          "text": "<b><span style=\"font-style: normal;\">We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, stress - is it even possible?<br>Discover how to live a life that actually feels good on the inside, not one that only looks good on the outside. Meet world-renowned yogi, lecturer, and meditation master Balakhilya das - travelling around the world to give lectures on the ancient yet highly relevant wisdom of yoga. In a warm yet authorative manner, Balakhilya das helps people to resolve conflicts and to find true and lasting happiness.<br>This may just change your life!</span><br><span style=\"font-style: normal;\"><br>BOOK YOUR FREE SPOT:</span></b>",
+          "text": "<b><span style=\"font-style: normal;\">We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, and stress - is it even possible?&nbsp;<br></span></b><span style=\"line-height: 1.5;\"><br><span style=\"font-style: normal;\"><b>Come and discover how to live a life that actually feels good on the inside, not one that only looks good on the outside!&nbsp;World-known Vedic teacher and expert in the ancient Wisdom of Yoga, Balakhilya das, shares both profound and practical insights in how you can come to live a more fulfilled life.</b></span></span><span style=\"font-style: normal;\"><b><span style=\"line-height: 1.5;\"><font color=\"#000000\">&nbsp;</font></span>The enlightening seminars by Balakhilya das will help you live a life full of joy, peace, and harmony.<br>This may just change your life!</b></span><b><br></b><span style=\"font-weight: bold; font-style: normal;\"><br>BOOK YOUR FREE SPOT:</span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2m\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2n\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -2680,40 +2681,6 @@
               "loop": false
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-17",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
@@ -2835,10 +2802,10 @@
             }
           },
           "title1": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Karma</a>",
-          "text1": "<span style=\"font-style: normal;\">Why bad things happen to good people and how we can live in this world without creating karma.<br></span>Free entrance.<br>",
+          "text1": "<span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\">When you look at the world, many things may seem unfair. </span>Why do actually bad things happen to good or even innocent people? In this seminar, Balakhilya das explores the problem of karma &amp; suffering, and sheds light on a profound solution to this very real issue that all of us are faced with.<br></span>Free entrance.<br>",
           "date2": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">6. december 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
           "title2": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Lost in the World</a>",
-          "text2": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, what the solution is - and how we can find true happiness in the world. <br></span>Free entrance.<br>",
+          "text2": "<span style=\"font-style: normal;\">Our society is running faster than ever, and with new technology we make sure to never be alone. Still, many experience a feeling of loneliness deep inside. Even amongst our friends or family we may feel like something is missing.&nbsp;So what is it we are longing for, and where can it be found?&nbsp;Hear world-known Vedic teacher and Yoga Wisdom expert Balakhilya das speak on the topic of “Lost in the World”.</span><br>Free entrance.<br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2863,10 +2830,10 @@
             }
           },
           "title3": "<a href=\"index-en.html#extHeader13-2n\">Seminar: Lost in the World</a>",
-          "text3": "<span style=\"font-style: normal;\">Why we sometime feel lonely even amongst friends, what the solution is - and how we can find true happiness in the world. <br></span>Free entrance.<br>",
+          "text3": "<span style=\"font-style: normal;\">Our society is running faster than ever, and with new technology we make sure to never be alone. Still, many experience a feeling of loneliness deep inside. Even amongst our friends or family we may feel like something is missing. So what is it we are longing for, and where can it be found? Hear world-known Vedic teacher and Yoga Wisdom expert Balakhilya das speak on the topic of “Lost in the World”.<br></span>Free entrance.<br>",
           "date4": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">10. december 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
           "title4": "<a href=\"index-en.html#extHeader13-2n\">Pop-up Yoga Café</a>",
-          "text4": "<span style=\"font-style: normal;\">An exciting opportunity for yoga practitioners and others to meet international yoga wisdom teacher Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu.<br></span>Free entrance.<br>",
+          "text4": "<span style=\"font-style: normal;\">Let’s go beyond the yoga mat: What is the point of doing yoga?&nbsp;And how can I find harmony and joy in my life through the yoga lifestyle? This evening is an&nbsp;exciting opportunity for yoga practitioners and others to meet and learn from international yoga wisdom expert Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu available.<br></span>Free entrance.<br>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2985,6 +2952,79 @@
           "bottomTitle": "<span style=\"font-weight: normal;\">END OF VISIT&nbsp;</span>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
+            },
+            "DIV": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-40",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/_dsc0011-1400x999_1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://vimeo.com/241270229",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div style=\"text-align: right;\"><span style=\"color: inherit; font-size: 60px; line-height: 66px;\"><font face=\"Indie Flower, cursive\">Trailer:<br></font></span><span style=\"color: inherit; font-weight: normal; line-height: 1.1;\">Lost in the World</span></div>",
+          "text": "<b>fe</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"yoga-challenge.html#content2-2u\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        },
+        {
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -3060,7 +3100,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN OSLO<br></a>",
-          "title": "SEMINARS IN OSLO",
+          "title": "OSLO",
           "text": "<span style=\"font-style: normal;\">5 DECEMBER - KARMA<br>6 DECEMBER - LOST IN THE WORLD<br><br>18:00 LITTERATURHUSET<br>WERGELANDSVEIEN 29, OSLO<br>TEL. 98041818</span><br>"
         },
         {
@@ -3241,7 +3281,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5710.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3951,7 +3991,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
