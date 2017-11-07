@@ -1161,6 +1161,7 @@ h6,
 #extFeatures13-2z .date P {
   font-family: 'Lato', sans-serif;
   font-size: 21px;
+  color: #ffffff;
 }
 #extFeatures13-2z P {
   font-family: 'Lato', sans-serif;
@@ -1173,6 +1174,9 @@ h6,
 #extFeatures13-2z .mbr-section-title SPAN {
   color: #ffffff;
   font-family: 'Open Sans Condensed', sans-serif;
+}
+#extFeatures13-2z .date DIV {
+  font-size: 21px;
 }
 #extHeader13-2m H3 {
   font-family: 'Open Sans Condensed', sans-serif;
