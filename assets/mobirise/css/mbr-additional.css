@@ -745,7 +745,7 @@ h6,
   color: #ffffff;
 }
 #extFeatures13-2t .date SPAN {
-  text-align: center;
+  text-align: left;
 }
 #extFeatures13-2t .mbr-section-title SPAN {
   color: #ffffff;
@@ -753,6 +753,9 @@ h6,
 }
 #extFeatures13-2t SPAN {
   color: #ffffff;
+}
+#extFeatures13-2t .date DIV {
+  text-align: right;
 }
 #features3-2r H4 {
   font-size: 30px;

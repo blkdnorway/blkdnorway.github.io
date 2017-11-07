@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index-en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -217,7 +217,7 @@
               "color": "#ffffff"
             },
             ".date SPAN": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-title SPAN": {
               "color": "#ffffff",
@@ -226,6 +226,9 @@
             },
             "SPAN": {
               "color": "#ffffff"
+            },
+            ".date DIV": {
+              "text-align": "right"
             }
           },
           "_anchor": "extFeatures13-2t",
@@ -266,7 +269,7 @@
           },
           "title1": "<a href=\"oslo.html#features3-2h\">Seminar: Karma</a>",
           "text1": "<span style=\"font-style: normal;\">Hvorfor dårlige ting skjer med gode mennesker og hvordan vi kan leve i denne verden uten å skape karma.<br>Gratis inngang.</span>&nbsp;",
-          "date2": "<div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><span style=\"font-style: normal;\"><a href=\"oslo.html#features3-2h\" class=\"text-warning\">6. DESEMBER 2017</a><br></span>18:00 Litteraturhuset</span></div>Wergelandsveien 29<br>Oslo<br>",
+          "date2": "<div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><span style=\"font-style: normal;\"><a href=\"oslo.html#features3-2h\" class=\"text-warning\">6. DESEMBER 2017</a></span></span></div><div style=\"text-align: center;\">18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo<span style=\"text-align: right; line-height: 1.5;\"><span style=\"font-style: normal;\"><a href=\"oslo.html#features3-2h\" class=\"text-warning\"><br></a></span></span></div><div style=\"text-align: center;\"><span style=\"text-align: right; line-height: 1.5;\"><span style=\"font-style: normal;\"><a href=\"oslo.html#features3-2h\" class=\"text-warning\"><br></a><br></span></span></div><br>",
           "title2": "<a href=\"oslo.html#features3-2h\">Seminar: Lost in the World</a>",
           "text2": "<span style=\"font-style: normal;\">Hvorfor vi selv med venner runt om oss kan føle oss ensom, og hvordan vi kan finne sann lykke i verden. Gratis</span> <span style=\"font-style: normal;\">inngang.</span>",
           "media2": {
@@ -2442,7 +2445,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg13.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2465,7 +2468,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150012.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3198,7 +3201,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg13.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3221,7 +3224,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150012.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3551,7 +3554,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33714.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4060,7 +4063,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg10.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg13.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4083,7 +4086,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15009.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150012.png",
               "link": "",
               "alt": "",
               "title": "",
