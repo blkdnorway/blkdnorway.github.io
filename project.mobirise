@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "videoer.html",
+    "currentPage": "trondheim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -563,7 +563,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -895,7 +895,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -1554,7 +1554,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -2409,7 +2409,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -2459,28 +2459,28 @@
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
-              "success": "Thanks for the message!"
+              "success": "Takk for meldingen!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Navn*"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Telefon"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Epost*"
               },
               "message": {
                 "title": "Message",
                 "visible": true,
-                "customTitle": "Message"
+                "customTitle": "Melding"
               }
             }
           },
@@ -3241,7 +3241,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3335,7 +3335,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -3951,7 +3951,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3371.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4047,7 +4047,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -4097,28 +4097,28 @@
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
-              "success": "Thanks for the message!"
+              "success": "Takk for meldingen!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Navn*"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Telefon"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Epost*"
               },
               "message": {
                 "title": "Message",
                 "visible": true,
-                "customTitle": "Message"
+                "customTitle": "Melding"
               }
             }
           },
