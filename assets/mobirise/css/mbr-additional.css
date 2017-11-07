@@ -1253,6 +1253,7 @@ h6,
 
 
 
+
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
@@ -1314,6 +1315,16 @@ h6,
 }
 #extFeatures13-3s .date SPAN {
   font-size: 19px;
+}
+#features3-41 H4 {
+  font-size: 30px;
+}
+#features3-41 P {
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+}
+#features3-41 .btn {
+  font-size: 14px;
 }
 #msg-box5-40 P {
   text-align: right;

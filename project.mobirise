@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 145,
+    "uniqCompNum": 146,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1142,7 +1142,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MELD MEG PÅ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x390.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2789,7 +2789,7 @@
           },
           "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS IN NORWAY</span>",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "date1": "<b style=\"font-style: normal;\"><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">5. december 2017</a><br></b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien 29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
+          "date1": "<b style=\"font-style: normal;\"><a href=\"en.html#extHeader13-2m\" class=\"text-warning\">5. december 2017</a><br></b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien 29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
@@ -2801,9 +2801,9 @@
               "color": "#41a85f"
             }
           },
-          "title1": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Karma</a>",
+          "title1": "<a href=\"en.html#features3-41\">Seminar: Karma</a>",
           "text1": "<span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\">When you look at the world, many things may seem unfair. </span>Why do actually bad things happen to good or even innocent people? In this seminar, Balakhilya das explores the problem of karma &amp; suffering, and sheds light on a profound solution to this very real issue that all of us are faced with.<br></span>Free entrance.<br>",
-          "date2": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2m\" class=\"text-warning\">6. december 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
+          "date2": "<span style=\"font-style: normal;\"><b><a href=\"en.html#extHeader13-2m\" class=\"text-warning\">6. december 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
           "title2": "<a href=\"index-en.html#extHeader13-2m\">Seminar: Lost in the World</a>",
           "text2": "<span style=\"font-style: normal;\">Our society is running faster than ever, and with new technology we make sure to never be alone. Still, many experience a feeling of loneliness deep inside. Even amongst our friends or family we may feel like something is missing.&nbsp;So what is it we are longing for, and where can it be found?&nbsp;Hear world-known Vedic teacher and Yoga Wisdom expert Balakhilya das speak on the topic of “Lost in the World”.</span><br>Free entrance.<br>",
           "media2": {
@@ -2817,7 +2817,7 @@
               "color": "#41a85f"
             }
           },
-          "date3": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">9. december 2017</a><br></b>18:00 Kjøpmannsgata 12<br>Trondheim</span><br>",
+          "date3": "<span style=\"font-style: normal;\"><b><a href=\"en.html#extHeader13-2n\" class=\"text-warning\">9. december 2017</a><br></b>18:00 Kjøpmannsgata 12<br>Trondheim</span><br>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2829,10 +2829,10 @@
               "color": "#41a85f"
             }
           },
-          "title3": "<a href=\"index-en.html#extHeader13-2n\">Seminar: Lost in the World</a>",
+          "title3": "<a href=\"en.html#features3-41\">Seminar: Lost in the World</a>",
           "text3": "<span style=\"font-style: normal;\">Our society is running faster than ever, and with new technology we make sure to never be alone. Still, many experience a feeling of loneliness deep inside. Even amongst our friends or family we may feel like something is missing. So what is it we are longing for, and where can it be found? Hear world-known Vedic teacher and Yoga Wisdom expert Balakhilya das speak on the topic of “Lost in the World”.<br></span>Free entrance.<br>",
-          "date4": "<span style=\"font-style: normal;\"><b><a href=\"index-en.html#extHeader13-2n\" class=\"text-warning\">10. december 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
-          "title4": "<a href=\"index-en.html#extHeader13-2n\">Pop-up Yoga Café</a>",
+          "date4": "<span style=\"font-style: normal;\"><b><a href=\"en.html#extHeader13-2n\" class=\"text-warning\">10. december 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
+          "title4": "<a href=\"en.html#features3-41\">Pop-up Yoga Café</a>",
           "text4": "<span style=\"font-style: normal;\">Let’s go beyond the yoga mat: What is the point of doing yoga?&nbsp;And how can I find harmony and joy in my life through the yoga lifestyle? This evening is an&nbsp;exciting opportunity for yoga practitioners and others to meet and learn from international yoga wisdom expert Balakhilya das. There will be a seminar on \"Living a Yoga Lifestyle\" including questions &amp; answers, a short concert, and a delicous vegetarian menu available.<br></span>Free entrance.<br>",
           "media4": {
             "iconFont": {
@@ -2950,6 +2950,132 @@
             }
           },
           "bottomTitle": "<span style=\"font-weight: normal;\">END OF VISIT&nbsp;</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "18px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features3-41",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337-6.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "oslo.html#extHeader13-21",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Lost in the World",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>We invite you to a different lecture: This is about you!<br></b><br>Our society is progressing faster than ever, always with new technology, gadgets, and expectations to keep up with. We are constantly twittering, snapchatting, facebooking, interacting - available both online and offline - and still 4 out of 10 Norwegians experience loneliness (SSB 2015). It has even come to the point where one could claim that “We are never alone - but we feel more lonely than ever.” <br> <br>But the problem goes much deeper than social media. Even when you are with your family or friends - the closest people you have in your life - you may still feel an emptiness deep inside of you. We may be afraid to talk about it, but actually we are all longing for purpose, longing for something that actually satisfies our heart’s desire. So what is it we are longing for, and where can it be found?<br><br>Hear world-known Vedic teacher and Yoga Wisdom expert Balakhilya das speak on the topic of “Lost in the World”. Come and experience for yourself how the ancient, yet highly relevant science of yoga, helps to solve your personal struggles. This enlightening seminar by Balakhilya das will help you on the path toward a life of joy, peace, and harmony. This may just change your life!<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33712.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "oslo.html#extHeader13-21",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Karma<br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>When you look at the world, many things may seem unfair.&nbsp;Why do bad things happen to good or innocent people?</b><br><br>Most of us have heard of the law of karma, which is described by familiar sayings like, “what goes around comes around,” and “as you sow, so shall you reap.” When we see or experience suffering, for example the suffering of people close to us, children, or even animals, we may feel incredibly helpless, frustrated or even angry. It can be hard to understand and (much less) accept this reality. So what can be done to finally put an end to this suffering?<br><br>In this yoga wisdom talk, Balakhilya das explores the problem of karma &amp; suffering, and sheds light on a profound solution to this very real issue that all of us are faced with. He will share the answers to questions such as&nbsp;\"Why am I suffering - experiencing diseases, old age, and death?\",&nbsp;\"What can I do about suffering?\" and \"What is the real purpose of my existence?\"<br><br>Balakhilya das will also share valuable insights on the idea of trying to attract more good karma than bad karma. Actually, even good karma has serious disadvantages. But if good karma is not desirable, how can we live in this world without creating karma at all?<br>Learn about the law of karma and how it concerns your daily life!<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">SIGN UP - OSLO</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337-5.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "hva-skjer.html#msg-box8-7l",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Pop-up Yoga Cafe",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>Let’s go beyond the yoga mat: What is the point of doing yoga?&nbsp;And how can I find harmony and joy in my life through the yoga lifestyle? </b><br><br>Trondheim’s first Yoga Café is a place to ask questions, relieve yourself from stress &amp; worries, and to find answers. Come meet and learn from our special guest, international yoga and meditation master Balakhilya das!&nbsp;Maybe you are one of many who are confused in the jungle of yoga - with Kundalini, Ashtanga, Vinyasa, Hatha, Bikram, Iengar, Yin, etc. In an interactive seminar, Balakhilya das will help you understand the meaning of yoga, and show how actually, all yoga systems has the common purpose of bringing the practitioner toward a state of complete happiness.<br><br>There will be possibilities to buy tasty vegetarian food at the event to accompany the relaxed atmosphere :)&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SIGN UP - TRONDHEIM</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Hatha Yoga",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -3281,7 +3407,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5710.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5713.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3975,7 +4101,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x390-1.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3991,7 +4117,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33714.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
