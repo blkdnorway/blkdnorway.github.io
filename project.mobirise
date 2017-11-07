@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "en.html",
+    "currentPage": "trondheim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -34,8 +34,8 @@
   "pages": {
     "videoer.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Video-seminarer fra Yoga-vitenskapen | yogavisdom.no",
+        "meta_descr": "Video-seminarer fra Yoga-vitenskapen: Hvem er jeg? Hva er meningen med mitt liv? Hvor kan jeg finne sann lykke?\nVi ønsker alle å være lykkelige, og yoga-systemet lærer oss at vi må gå inn på en reise innover for å finne ekte lykke. Du kan selv starte dette eventyret i dag ved å engasjere deg i mantrameditasjon, og ved å låne ørene dine til desse opplysende seminarene fra yoga-vitenskapen.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -677,8 +677,8 @@
     },
     "kontakt.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Kontakt oss | yogavisdom.no",
+        "meta_descr": "Oslo Meditasjonsskole: Tel. 980 41 818, oslomeditasjon@gmail.com, www.oslomeditasjon.no\nTrondheim Meditasjon & Yoga: Tel. 410 75 816, info@tmy.no, www.tmy.no ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -750,7 +750,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -1150,8 +1150,8 @@
     },
     "oslo.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Seminarer fra Yoga-vitenskapen - Oslo | yogavisdom.no",
+        "meta_descr": "Lær hvordan du kan kontrollere sinnet ditt, og fri deg fra stress og bekymringer. Utvikle åndelig innsikt, indre styrke og toleranse. Velkommen til seminar i Oslo med Balakhilya das, ekspert i yoga-vitenskapen!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1711,7 +1711,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg7.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg11.jpg",
             "bgColor": "#e9e9e9",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1728,13 +1728,13 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x15006.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-blkd-1000x150010.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1898,8 +1898,8 @@
     },
     "trondheim.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Seminarer fra Yoga-vitenskapen - Trondheim | yogavisdom.no",
+        "meta_descr": "Lær hvordan du kan kontrollere sinnet ditt, og fri deg fra stress og bekymringer. Utvikle åndelig innsikt, indre styrke og toleranse. Velkommen til seminar i Trondheim med Balakhilya das, ekspert i yoga-vitenskapen!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2583,7 +2583,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -2753,8 +2753,8 @@
     },
     "en.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Free Yoga Wisdom Seminars in Norway by Balakhilya das | yogavisdom.no",
+        "meta_descr": "Meet and hear from a world-known expert in the Wisdom of Yoga! Vedic teacher Balakhilya das shares precious insights from the Science of Yoga, helping you to solve personal struggles - and guiding you toward a life full of joy, peace, and harmony. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3415,7 +3415,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-578.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5712.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3509,7 +3509,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
@@ -3680,8 +3680,8 @@
     "hjem.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Gratis seminarer fra Yoga-vitenskapen av Balakhilya das | yogavisdom.no",
+        "meta_descr": "Er det mulig å leve et liv uten ensomhet, angst og stress? Vi inviterer deg til en annerledes forelesning - den handler om deg! Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden - møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4125,7 +4125,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3379.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33713.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4221,7 +4221,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">RESERVER GRATISBILLETT</a>"
           },
           "media": {
             "image": {
