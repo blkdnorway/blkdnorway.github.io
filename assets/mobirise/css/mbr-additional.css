@@ -8,6 +8,7 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -1461,6 +1462,7 @@ h6,
 
 
 
+
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -1474,11 +1476,16 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
 }
 #extHeader6-2s P {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Oxygen', sans-serif;
   color: #000000;
+  font-size: 21px;
 }
 #extHeader6-2s SPAN {
   font-size: 21px;
+  color: #414141;
+  font-family: 'Oxygen', sans-serif;
+}
+#extHeader6-2s B {
   color: #414141;
 }
 #header3-1q .mbr-section-title,
