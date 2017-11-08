@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "en.html",
+    "currentPage": "hjem.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3010,7 +3010,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33712.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x3373.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3407,7 +3407,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5713.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-574.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3720,12 +3720,18 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#000000"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#000000",
+              "font-size": "21px"
             },
             "SPAN": {
               "font-size": "21px",
+              "color": "#414141",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "B": {
               "color": "#414141"
             }
           },
@@ -3749,7 +3755,7 @@
             "showButtons": true
           },
           "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norges-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
-          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en annerledes forelesning - den handler om deg.<br>Er det mulig å leve et liv uten ensomhet, tristhet, angst eller stress?<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare ser bra ut på utsiden. Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt om i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.<br>Dette kan utgjøre en virkelig forskjell i livet ditt!</b></span><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en unik forelesning - den handler om deg!<br></b>Er det mulig å leve et liv uten ensomhet, angst og stress? <br>Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.&nbsp;</span>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br><span style=\"font-style: normal;\">Dette kan utgjøre en virkelig forskjell i livet ditt!</span><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -3819,7 +3825,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Til alle dere der ute som har funnet meg og denne nettsiden; velkommen.</b></span></p><p><span style=\"font-style: normal;\"><b>Jeg er veldig glad for at du er her. Det er mitt håp at du vil kunne ta noe med deg herfra som vil fungere som et ledende lys i livet ditt.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">Jeg kom til denne helhetlige yogafilosofien på en indirekte måte. Jeg begynte å bli interessert i hatha yoga (fysisk yoga) som en måte å forbedre surfingen min, som på den tiden (1969) var hele mitt liv. Fordelene var umiddelbart åpenbare, og jeg begynte å se nærmere på emnet. Ved å lese begynte jeg å trene enkel meditasjon, spiste vegetarisk mat, og brukte mer og mer tid i dypere kontemplasjon av livets mening. Jeg hadde alltid vært en reisende, men nå begynte jeg på en indre reise. Underveis ble min verden, - både den ytre og den indre, stadig mer fredelig og rolig.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">I 1971 var jeg så utrolig heldig (uten tilfeldighet er jeg sikker på) å få komme i kontakt med mine åndelige lærere. Under deres ekspertise og veiledning mottok jeg og begynte å følge den gamle vitenskapen kalt Bhakti Yoga som jeg har fortsatt å gjøre til i dag. Og hvilken vakker og tilfredsstillende reise det har vært!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Så jeg ønsker på det sterkeste at du kan få den samme sjansen og velsignelsen som jeg har hatt, ufortjent som jeg er.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Beste ønsker,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Til alle dere der ute som har funnet meg og denne nettsiden; velkommen.</b></span></p><p><span style=\"font-style: normal;\"><b>Jeg er veldig glad for at du er her. Det er mitt håp at du vil kunne ta noe med deg herfra som vil fungere som et ledende lys i livet ditt.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">Jeg kom til denne helhetlige yogafilosofien på en indirekte måte. Jeg begynte å bli interessert i hatha yoga (fysisk yoga) som en måte å forbedre surfingen min, som på den tiden (1969) var hele mitt liv. Fordelene var umiddelbart åpenbare, og jeg begynte å se nærmere på emnet. Ved å lese begynte jeg å trene enkel meditasjon, spiste vegetarisk mat, og brukte mer og mer tid i dypere kontemplasjon på meningen av mitt liv. Jeg hadde alltid vært en reisende, men nå begynte jeg på en indre reise. Underveis ble min verden, - både den ytre og den indre, stadig mer fredelig og rolig.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">I 1971 var jeg så utrolig heldig (uten tilfeldighet er jeg sikker på) å få komme i kontakt med mine åndelige lærere. Under deres ekspertise og veiledning mottok jeg og begynte å følge den gamle vitenskapen kalt Bhakti Yoga som jeg har fortsatt å gjøre til den dag i dag. Og hvilken vakker og tilfredsstillende reise det har vært!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Så jeg ønsker på det sterkeste at du kan få den samme sjansen og velsignelsen som jeg har hatt, ufortjent som jeg er.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Beste ønsker,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4117,7 +4123,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33714.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
