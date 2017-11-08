@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "hjem.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3010,7 +3010,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x3376.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3407,7 +3407,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-574.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-577.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -4123,7 +4123,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3378.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
